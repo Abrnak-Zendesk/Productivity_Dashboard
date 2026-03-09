@@ -1,0 +1,9 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Zendesk brand mark - geometric Z -->
+  <g>
+    <!-- Left triangle pointing right -->
+    <path d="M8 24 L24 8 L24 40 L8 24 Z" fill="white"/>
+    <!-- Right triangle pointing left -->
+    <path d="M40 24 L24 8 L24 40 L40 24 Z" fill="white"/>
+  </g>
+</svg>
