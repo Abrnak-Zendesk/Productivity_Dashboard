@@ -85,7 +85,7 @@ export default function Dashboard() {
       onsites: 8,
       rbas: 9,
       totalPipegen: 10,
-      bookings: 22
+      bookings: 21
     }
   }, [data])
 
@@ -93,8 +93,8 @@ export default function Dashboard() {
   const sectionSpans = [
     { start: 1, end: 6, name: '' }, // Region through Ramped (no section header)
     { start: 7, end: 9, name: 'Activity' }, // Meetings, Onsites, RBA's
-    { start: 10, end: 21, name: 'Pipeline Generation' }, // Total Pipegen through NB COPILOT ATTACH
-    { start: 22, end: 31, name: 'Bookings' } // Bookings through TOTAL AI ATTACH
+    { start: 10, end: 20, name: 'Pipeline Generation' }, // Total Pipegen through NB COPILOT ATTACH
+    { start: 21, end: 29, name: 'Bookings' } // Bookings through TOTAL AI ATTACH
   ]
 
   // Get unique filter values for main filters

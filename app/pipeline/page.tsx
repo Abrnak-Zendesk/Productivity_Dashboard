@@ -77,9 +77,8 @@ export default function PipelineDashboard() {
       manager: 2,
       aeName: 3,
       roleType: 4,
-      totalPipeline: 6,
-      commit: 7,
-      mostLikely: 8
+      totalPipelineARR: 6,
+      totalPipelineDeals: 19,
     }
   }, [data])
 
@@ -211,6 +210,44 @@ export default function PipelineDashboard() {
     return isNaN(num) ? 0 : num
   }
 
+  const calculateKPIs = () => {
+    if (!data || data.rows.length < 2 || !columnIndices) return null
+
+    const filteredData = getFilteredAndSortedData()
+
+    if (filteredData.length === 0) return null
+
+    const aeMap = new Map<string, { pipelineARR: number[], pipelineDeals: number[] }>()
+
+    filteredData.forEach(row => {
+      const aeName = row[columnIndices.aeName]
+      if (!aeName) return
+
+      if (!aeMap.has(aeName)) {
+        aeMap.set(aeName, { pipelineARR: [], pipelineDeals: [] })
+      }
+
+      const aeData = aeMap.get(aeName)!
+
+      aeData.pipelineARR.push(parseValue(row[columnIndices.totalPipelineARR]))
+      aeData.pipelineDeals.push(parseValue(row[columnIndices.totalPipelineDeals]))
+    })
+
+    const pipelineARRAvgs = Array.from(aeMap.values()).map(ae =>
+      ae.pipelineARR.reduce((a, b) => a + b, 0) / ae.pipelineARR.length
+    )
+    const pipelineDealsAvgs = Array.from(aeMap.values()).map(ae =>
+      ae.pipelineDeals.reduce((a, b) => a + b, 0) / ae.pipelineDeals.length
+    )
+
+    return {
+      pipelineARR: pipelineARRAvgs.reduce((a, b) => a + b, 0) / pipelineARRAvgs.length,
+      pipelineDeals: pipelineDealsAvgs.reduce((a, b) => a + b, 0) / pipelineDealsAvgs.length
+    }
+  }
+
+
+
   const getConditionalColor = (columnIndex: number, value: any): string => {
     const filteredData = getFilteredAndSortedData()
     const columnValues = filteredData.map(row => parseValue(row[columnIndex])).filter(v => v > 0)
@@ -279,6 +316,7 @@ export default function PipelineDashboard() {
   }
 
   const filteredData = getFilteredAndSortedData()
+  const kpis = calculateKPIs()
   const actualHeaders = data.rows[0]
 
   return (
@@ -316,6 +354,27 @@ export default function PipelineDashboard() {
       </header>
 
       <main className="w-full px-4 sm:px-6 lg:px-8 py-8">
+        {/* KPI Cards */}
+        {kpis && (
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-8">
+            <div className="bg-zendesk-green rounded-lg shadow-lg border-t-4 border-zendesk-lime p-6">
+              <h3 className="text-sm font-bold text-zendesk-lime uppercase tracking-wide">Open Pipeline ARR</h3>
+              <p className="text-4xl font-bold text-white mt-3">
+                ${kpis.pipelineARR.toFixed(1)}k
+              </p>
+              <p className="text-sm text-gray-200 mt-2">Avg per AE</p>
+            </div>
+            <div className="bg-zendesk-green rounded-lg shadow-lg border-t-4 border-zendesk-lime p-6">
+              <h3 className="text-sm font-bold text-zendesk-lime uppercase tracking-wide">Average Open Deals</h3>
+              <p className="text-4xl font-bold text-white mt-3">
+                {kpis.pipelineDeals.toFixed(1)}
+              </p>
+              <p className="text-sm text-gray-200 mt-2">Avg per AE</p>
+            </div>
+          </div>
+        )}
+
+
         {/* Filters */}
         <div className="bg-white rounded-lg shadow-lg p-6 mb-6 border-l-4 border-zendesk-lime">
           <div className="grid grid-cols-1 md:grid-cols-4 gap-4">
