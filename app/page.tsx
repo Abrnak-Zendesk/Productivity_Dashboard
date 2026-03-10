@@ -205,6 +205,16 @@ export default function Dashboard() {
     return filtered
   }
 
+  const formatCurrency = (val: any): string => {
+    if (val === null || val === undefined || val === "") return val
+    const str = String(val)
+    if (str.match(/[0-9]+k\s*$/i)) {
+      return "$" + str
+    }
+    return str
+  }
+
+
   const parseValue = (val: any): number => {
     if (val === null || val === undefined || val === '') return 0
     const str = String(val).replace(/k\s*$/i, '').replace(/[,$%⛔]/g, '').trim()
@@ -371,14 +381,14 @@ export default function Dashboard() {
             <div className="bg-zendesk-green rounded-lg shadow-lg border-t-4 border-zendesk-lime p-6">
               <h3 className="text-sm font-bold text-zendesk-lime uppercase tracking-wide">Pipeline Generation</h3>
               <p className="text-4xl font-bold text-white mt-3">
-                {kpis.pipegen.toFixed(1)}k
+                ${kpis.pipegen.toFixed(1)}k
               </p>
               <p className="text-sm text-gray-200 mt-2">Avg per AE</p>
             </div>
             <div className="bg-zendesk-green rounded-lg shadow-lg border-t-4 border-zendesk-lime p-6">
               <h3 className="text-sm font-bold text-zendesk-lime uppercase tracking-wide">Bookings</h3>
               <p className="text-4xl font-bold text-white mt-3">
-                {kpis.bookings.toFixed(1)}k
+                ${kpis.bookings.toFixed(1)}k
               </p>
               <p className="text-sm text-gray-200 mt-2">Avg per AE</p>
             </div>
@@ -587,7 +597,7 @@ export default function Dashboard() {
                           className={`px-2 py-2 whitespace-nowrap text-[11px] text-gray-900 border-r border-gray-100 ${shouldFreeze ? 'sticky z-10 font-medium shadow-sm' : ''}`}
                           style={shouldFreeze ? { left: `${leftPosition}px`, backgroundColor: bgColor !== 'transparent' ? bgColor : 'white' } : { backgroundColor: bgColor }}
                         >
-                          {cell}
+                          {formatCurrency(cell)}
                         </td>
                       )
                     })}

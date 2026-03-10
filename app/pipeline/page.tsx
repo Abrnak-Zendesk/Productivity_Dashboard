@@ -194,6 +194,16 @@ export default function PipelineDashboard() {
     return filtered
   }
 
+  const formatCurrency = (val: any): string => {
+    if (val === null || val === undefined || val === "") return val
+    const str = String(val)
+    if (str.match(/[0-9]+k\s*$/i)) {
+      return "$" + str
+    }
+    return str
+  }
+
+
   const parseValue = (val: any): number => {
     if (val === null || val === undefined || val === '') return 0
     const str = String(val).replace(/k\s*$/i, '').replace(/[,$%⛔]/g, '').trim()
@@ -504,7 +514,7 @@ export default function PipelineDashboard() {
                           className={`px-2 py-2 whitespace-nowrap text-[11px] text-gray-900 border-r border-gray-100 ${shouldFreeze ? 'sticky z-10 font-medium shadow-sm' : ''}`}
                           style={shouldFreeze ? { left: `${leftPosition}px`, backgroundColor: bgColor !== 'transparent' ? bgColor : 'white' } : { backgroundColor: bgColor }}
                         >
-                          {cell}
+                          {formatCurrency(cell)}
                         </td>
                       )
                     })}
