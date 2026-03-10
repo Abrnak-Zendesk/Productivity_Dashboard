@@ -18,26 +18,55 @@ export default function Dashboard() {
   const [directorFilter, setDirectorFilter] = useState<string[]>([])
   const [managerFilter, setManagerFilter] = useState<string[]>([])
   const [columnFilters, setColumnFilters] = useState<{ [key: number]: string }>({})
+  const [lastUpdated, setLastUpdated] = useState<Date | null>(null)
 
   useEffect(() => {
     fetchData()
+    
+    // Schedule midnight PST refresh
+    const scheduleMidnightRefresh = () => {
+      const now = new Date()
+      const pstOffset = -8 * 60 // PST is UTC-8
+      const nowPST = new Date(now.getTime() + (now.getTimezoneOffset() + pstOffset) * 60000)
+      
+      // Calculate ms until midnight PST
+      const midnight = new Date(nowPST)
+      midnight.setHours(24, 0, 0, 0)
+      const msUntilMidnight = midnight.getTime() - nowPST.getTime()
+      
+      // Set timeout for midnight refresh
+      const timeoutId = setTimeout(() => {
+        fetchData()
+        scheduleMidnightRefresh() // Schedule next day's refresh
+      }, msUntilMidnight)
+      
+      return timeoutId
+    }
+    
+    const timeoutId = scheduleMidnightRefresh()
+    return () => clearTimeout(timeoutId)
   }, [])
 
   const fetchData = async () => {
     try {
       setLoading(true)
-      const response = await fetch('/api/sheets')
+      const response = await fetch('/api/sheets', { cache: 'no-store' })
       if (!response.ok) {
         throw new Error('Failed to fetch data')
       }
       const result = await response.json()
       setData(result)
+      setLastUpdated(new Date())
       setError(null)
     } catch (err) {
       setError(err instanceof Error ? err.message : 'An error occurred')
     } finally {
       setLoading(false)
     }
+  }
+
+  const handleManualRefresh = () => {
+    fetchData()
   }
 
   // Parse column indices from actual data
@@ -304,7 +333,26 @@ export default function Dashboard() {
     <div className="min-h-screen bg-gray-50">
       <header className="bg-zendesk-green shadow-lg">
         <div className="w-full px-4 sm:px-6 lg:px-8 py-6">
-          <div className="flex items-center gap-4"><img src="/zendesk-logo.png" alt="Zendesk Logo" className="h-16 w-auto" /><h1 className="text-4xl font-bold text-zendesk-lime">SMB Productivity Dashboard</h1></div>
+          <div className="flex items-center justify-between">
+            <div className="flex items-center gap-4">
+              <img src="/zendesk-logo.png" alt="Zendesk Logo" className="h-16 w-auto" />
+              <h1 className="text-4xl font-bold text-zendesk-lime">SMB Productivity Dashboard</h1>
+            </div>
+            <div className="flex items-center gap-4">
+              {lastUpdated && (
+                <span className="text-sm text-gray-200">
+                  Last updated: {lastUpdated.toLocaleTimeString()}
+                </span>
+              )}
+              <button
+                onClick={handleManualRefresh}
+                disabled={loading}
+                className="bg-zendesk-lime text-zendesk-green-dark px-4 py-2 rounded-lg font-bold hover:bg-white transition-colors disabled:opacity-50"
+              >
+                {loading ? 'Refreshing...' : 'Refresh Data'}
+              </button>
+            </div>
+          </div>
         </div>
       </header>
 
