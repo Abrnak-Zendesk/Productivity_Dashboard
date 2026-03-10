@@ -74,8 +74,8 @@ async function fetchWithRetry(url: string, retries = 3): Promise<Response> {
 
 export async function GET() {
   try {
-    const CSV_URL = process.env.GOOGLE_SHEET_CSV_URL ||
-      'https://docs.google.com/spreadsheets/d/e/2PACX-1vS3egfTuIwnLyKLIG0ENYIBywbyFXR_BTy6BUFr9dRLauamWBisiZPL-t386oPpt-37YujeMhFR33lY/pub?gid=63862613&single=true&output=csv'
+    const CSV_URL = process.env.GOOGLE_SHEET_PIPELINE_CSV_URL ||
+      'https://docs.google.com/spreadsheets/d/e/2PACX-1vSiWS_IaadIALOcBKSITXcZsvJ8qvSbmTi-eAG1VxvYlMmpFnax-dcvJhPxr612z8FKFxeiVi1z1TA6/pub?gid=0&single=true&output=csv'
 
     const response = await fetchWithRetry(CSV_URL)
 
