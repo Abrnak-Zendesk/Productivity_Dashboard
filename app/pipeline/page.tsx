@@ -154,6 +154,20 @@ export default function PipelineDashboard() {
     }
   }
 
+  const resetFilters = () => {
+    setSearchTerm('')
+    setRegionFilter([])
+    setDirectorFilter([])
+    setManagerFilter([])
+    setColumnFilters({})
+  }
+
+  const shouldShowColumnFilter = (columnIndex: number): boolean => {
+    // Only show filters for columns 0-5 (Region through Ramped)
+    // Don't show for Open Pipeline ARR (6-18) or Open Pipeline Deals (19-31)
+    return columnIndex >= 0 && columnIndex <= 5
+  }
+
   const getFilteredAndSortedData = () => {
     if (!data || data.rows.length < 2 || !columnIndices) return []
 
@@ -389,6 +403,12 @@ export default function PipelineDashboard() {
                 onChange={(e) => setSearchTerm(e.target.value)}
                 className="w-full px-4 py-2 border-2 border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-zendesk-lime focus:border-zendesk-green transition-all"
               />
+              <button
+                onClick={resetFilters}
+                className="mt-2 text-xs text-zendesk-green hover:text-zendesk-green-light font-medium underline"
+              >
+                Reset Filters
+              </button>
             </div>
             <div>
               <label className="block text-sm font-bold text-zendesk-green mb-2">
@@ -502,16 +522,18 @@ export default function PipelineDashboard() {
                                   <span className="text-zendesk-lime text-xs">{sortDirection === 'asc' ? '↑' : '↓'}</span>
                                 )}
                               </div>
-                              <select
-                                onChange={(e) => handleColumnFilterChange(actualIdx, e.target.value)}
-                                value={columnFilters[actualIdx] || 'All'}
-                                className="text-[10px] px-1 py-0.5 bg-white text-zendesk-green rounded border border-gray-300"
-                                onClick={(e) => e.stopPropagation()}
-                              >
-                                {getColumnFilterOptions(actualIdx).map(opt => (
-                                  <option key={opt} value={opt}>{opt}</option>
-                                ))}
-                              </select>
+                              {shouldShowColumnFilter(actualIdx) && (
+                                <select
+                                  onChange={(e) => handleColumnFilterChange(actualIdx, e.target.value)}
+                                  value={columnFilters[actualIdx] || 'All'}
+                                  className="text-[10px] px-1 py-0.5 bg-white text-zendesk-green rounded border border-gray-300"
+                                  onClick={(e) => e.stopPropagation()}
+                                >
+                                  {getColumnFilterOptions(actualIdx).map(opt => (
+                                    <option key={opt} value={opt}>{opt}</option>
+                                  ))}
+                                </select>
+                              )}
                             </div>
                           </th>
                         )
@@ -544,16 +566,6 @@ export default function PipelineDashboard() {
                                 <span className="text-zendesk-lime text-xs">{sortDirection === 'asc' ? '↑' : '↓'}</span>
                               )}
                             </div>
-                            <select
-                              onChange={(e) => handleColumnFilterChange(actualIdx, e.target.value)}
-                              value={columnFilters[actualIdx] || 'All'}
-                              className="text-[10px] px-1 py-0.5 bg-white text-zendesk-green rounded border border-gray-300"
-                              onClick={(e) => e.stopPropagation()}
-                            >
-                              {getColumnFilterOptions(actualIdx).map(opt => (
-                                <option key={opt} value={opt}>{opt}</option>
-                              ))}
-                            </select>
                           </div>
                         </th>
                       )
