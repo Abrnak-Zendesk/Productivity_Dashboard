@@ -351,19 +351,29 @@ export default function PipelineDashboard() {
                 </div>
               </div>
             </div>
-            <div className="flex items-center gap-4">
-              {lastUpdated && (
-                <span className="text-sm text-gray-200">
-                  Last updated: {lastUpdated.toLocaleTimeString()}
-                </span>
-              )}
-              <button
-                onClick={handleManualRefresh}
-                disabled={loading}
-                className="bg-zendesk-lime text-zendesk-green-dark px-4 py-2 rounded-lg font-bold hover:bg-white transition-colors disabled:opacity-50"
+            <div className="flex flex-col items-end gap-2">
+              <div className="flex items-center gap-4">
+                {lastUpdated && (
+                  <span className="text-sm text-gray-200">
+                    Last updated: {lastUpdated.toLocaleTimeString()}
+                  </span>
+                )}
+                <button
+                  onClick={handleManualRefresh}
+                  disabled={loading}
+                  className="bg-zendesk-lime text-zendesk-green-dark px-4 py-2 rounded-lg font-bold hover:bg-white transition-colors disabled:opacity-50"
+                >
+                  {loading ? 'Refreshing...' : 'Refresh Data'}
+                </button>
+              </div>
+              <a
+                href="https://docs.google.com/document/d/1dqBIxfx2zmBzIG60y_yE6OXeccD5bpXeoCbZDkHuElU/edit?tab=t.0"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-sm text-zendesk-lime hover:text-white transition-colors underline"
               >
-                {loading ? 'Refreshing...' : 'Refresh Data'}
-              </button>
+                User Guide
+              </a>
             </div>
           </div>
         </div>
