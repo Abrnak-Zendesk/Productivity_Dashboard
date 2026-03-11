@@ -2,6 +2,7 @@
 
 import { useState, useEffect, useMemo } from 'react'
 import Link from 'next/link'
+import AuthWrapper from '../auth'
 
 interface SheetData {
   headers: string[]
@@ -320,6 +321,7 @@ export default function PipelineDashboard() {
   const actualHeaders = data.rows[0]
 
   return (
+    <AuthWrapper>
     <div className="min-h-screen bg-gray-50">
       <header className="bg-zendesk-green shadow-lg">
         <div className="w-full px-4 sm:px-6 lg:px-8 py-6">
@@ -585,5 +587,6 @@ export default function PipelineDashboard() {
         </div>
       </main>
     </div>
+    </AuthWrapper>
   )
 }
