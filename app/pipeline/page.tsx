@@ -73,20 +73,20 @@ export default function PipelineDashboard() {
     if (!data || data.rows.length === 0) return null
 
     return {
-      region: 0,
-      director: 1,
-      manager: 2,
-      aeName: 3,
-      roleType: 4,
-      totalPipelineARR: 6,
-      totalPipelineDeals: 19,
+      region: 1,
+      director: 2,
+      manager: 3,
+      aeName: 4,
+      roleType: 5,
+      totalPipelineARR: 7,
+      totalPipelineDeals: 20,
     }
   }, [data])
 
   const sectionSpans = [
-    { start: 0, end: 5, name: '' }, // Region through Ramped
-    { start: 6, end: 18, name: 'Open Pipeline ARR' },
-    { start: 19, end: 31, name: 'Open Pipeline Deals' }
+    { start: 1, end: 6, name: '' }, // Region through Ramped
+    { start: 7, end: 19, name: 'Open Pipeline ARR' },
+    { start: 20, end: 32, name: 'Open Pipeline Deals' }
   ]
 
   const filterOptions = useMemo(() => {
@@ -163,9 +163,9 @@ export default function PipelineDashboard() {
   }
 
   const shouldShowColumnFilter = (columnIndex: number): boolean => {
-    // Only show filters for columns 0-5 (Region through Ramped)
-    // Don't show for Open Pipeline ARR (6-18) or Open Pipeline Deals (19-31)
-    return columnIndex >= 0 && columnIndex <= 5
+    // Only show filters for columns 1-6 (Region through Ramped)
+    // Don't show for Open Pipeline ARR (7-19) or Open Pipeline Deals (20-32)
+    return columnIndex >= 1 && columnIndex <= 6
   }
 
   const getFilteredAndSortedData = () => {
@@ -515,8 +515,8 @@ export default function PipelineDashboard() {
                     if (!section.name) {
                       return actualHeaders.slice(section.start, section.end + 1).map((header, colIdx) => {
                         const actualIdx = section.start + colIdx
-                        const shouldFreeze = actualIdx >= 0 && actualIdx <= 3
-                        const leftPosition = actualIdx === 0 ? 0 : actualIdx === 1 ? 120 : actualIdx === 2 ? 240 : actualIdx === 3 ? 360 : 0
+                        const shouldFreeze = actualIdx >= 1 && actualIdx <= 4
+                        const leftPosition = actualIdx === 1 ? 0 : actualIdx === 2 ? 120 : actualIdx === 3 ? 240 : actualIdx === 4 ? 360 : 0
 
                         return (
                           <th
@@ -586,10 +586,11 @@ export default function PipelineDashboard() {
               <tbody className="bg-white divide-y divide-gray-200">
                 {filteredData.map((row, rowIdx) => (
                   <tr key={rowIdx} className="hover:bg-zendesk-lime/5 transition-colors">
-                    {row.map((cell, cellIdx) => {
-                      const bgColor = getConditionalColor(cellIdx, cell)
-                      const shouldFreeze = cellIdx >= 0 && cellIdx <= 3
-                      const leftPosition = cellIdx === 0 ? 0 : cellIdx === 1 ? 120 : cellIdx === 2 ? 240 : cellIdx === 3 ? 360 : 0
+                    {row.slice(1).map((cell, cellIdx) => {
+                      const actualIdx = cellIdx + 1
+                      const bgColor = getConditionalColor(actualIdx, cell)
+                      const shouldFreeze = actualIdx >= 1 && actualIdx <= 4
+                      const leftPosition = actualIdx === 1 ? 0 : actualIdx === 2 ? 120 : actualIdx === 3 ? 240 : actualIdx === 4 ? 360 : 0
 
                       return (
                         <td

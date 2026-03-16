@@ -1,4 +1,6 @@
 import { NextResponse } from 'next/server'
+import fs from 'fs'
+import path from 'path'
 
 function parseCSV(text: string): string[][] {
   const rows: string[][] = []
@@ -43,47 +45,10 @@ function parseCSV(text: string): string[][] {
   return rows.filter(row => row.some(cell => cell.trim() !== ''))
 }
 
-async function fetchWithRetry(url: string, retries = 3): Promise<Response> {
-  for (let i = 0; i < retries; i++) {
-    try {
-      const response = await fetch(url, {
-        cache: 'no-store',
-        headers: {
-          'User-Agent': 'Mozilla/5.0 (compatible; DashboardBot/1.0)',
-        },
-      })
-
-      if (response.ok) {
-        return response
-      }
-
-      // If we get a bad response, wait before retrying
-      if (i < retries - 1) {
-        await new Promise(resolve => setTimeout(resolve, 1000 * (i + 1)))
-      }
-    } catch (error) {
-      if (i === retries - 1) {
-        throw error
-      }
-      await new Promise(resolve => setTimeout(resolve, 1000 * (i + 1)))
-    }
-  }
-
-  throw new Error('Failed after retries')
-}
-
 export async function GET() {
   try {
-    const CSV_URL = process.env.GOOGLE_SHEET_PIPELINE_CSV_URL ||
-      'https://docs.google.com/spreadsheets/d/e/2PACX-1vSiWS_IaadIALOcBKSITXcZsvJ8qvSbmTi-eAG1VxvYlMmpFnax-dcvJhPxr612z8FKFxeiVi1z1TA6/pub?gid=0&single=true&output=csv'
-
-    const response = await fetchWithRetry(CSV_URL)
-
-    if (!response.ok) {
-      throw new Error(`Failed to fetch CSV: ${response.statusText}`)
-    }
-
-    const csvText = await response.text()
+    const filePath = path.join(process.cwd(), 'data', 'pipeline.csv')
+    const csvText = fs.readFileSync(filePath, 'utf-8')
     const rows = parseCSV(csvText)
 
     if (rows.length === 0) {
@@ -96,9 +61,9 @@ export async function GET() {
     })
 
   } catch (error) {
-    console.error('Error fetching Google Sheets data:', error)
+    console.error('Error reading CSV file:', error)
     return NextResponse.json(
-      { error: 'Failed to fetch data from Google Sheets' },
+      { error: 'Failed to read data from CSV file' },
       { status: 500 }
     )
   }
