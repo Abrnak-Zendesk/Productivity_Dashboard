@@ -402,7 +402,7 @@ export default function Dashboard() {
               <p className="text-4xl font-bold text-white mt-3">
                 {kpis.activity.toFixed(1)}
               </p>
-              <p className="text-sm text-gray-200 mt-2">Avg per AE (Meetings + Onsites + RBAs)</p>
+              <p className="text-sm text-gray-200 mt-2">Avg per AE (Calls/Meetings + Onsites + RBAs)</p>
             </div>
             <div className="bg-zendesk-green rounded-lg shadow-lg border-t-4 border-zendesk-lime p-6">
               <h3 className="text-sm font-bold text-zendesk-lime uppercase tracking-wide">Pipeline Generation</h3>
