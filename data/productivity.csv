@@ -1,5 +1,5 @@
 ,,,,,,,Activity,,,Pipeline Generation,,,,,,,,,,,Bookings,,,,,,,,
-,Region,Director,Manager,AE Name,Role Type,Ramped,Meetings,Onsites,RBA's,Total Pipegen: AE Only,AE PG Pacing,NB Pipegen: AE Only,NB Pipegen: BDR,NB Pipegen: Total,AI PipeGen,CoPilot PipeGen,AI Agents Pipegen,WEM/QA Pipegen,Total AI Attach,NB CoPilot Attach,Bookings,NB Bookings,NB AI Attach,NB CoPilot Attach,AI Bookings,CoPilot Bookings,AI Agents Bookings,WEM/QA Bookings,Total AI Attach
+,Region,Director,Manager,AE Name,Role Type,Ramped,Calls / Meetings,Onsites,RBA's,Total Pipegen: AE Only,AE PG Pacing,NB Pipegen: AE Only,NB Pipegen: BDR,NB Pipegen: Total,AI PipeGen,CoPilot PipeGen,AI Agents Pipegen,WEM/QA Pipegen,Total AI Attach,NB CoPilot Attach,Bookings,NB Bookings,NB AI Attach,NB CoPilot Attach,AI Bookings,CoPilot Bookings,AI Agents Bookings,WEM/QA Bookings,Total AI Attach
 005PC00000x1I8zYAE,LATAM,Alan Schulte,Alessia Villasana,Alex Del Valle,SSAC,Unramped,11,0,0,0k ,⛔,0k ,0k ,0k ,0k ,0k ,0k ,0k ,0%,0%,0k ,0k ,0%,0%,0k ,0k ,0k ,0k ,0%
 005PC00000wIy7ZYAS,LATAM,Alan Schulte,Alessia Villasana,Ana Zamacona,SSAC,Unramped,63,0,0,0k ,⛔,0k ,0k ,0k ,0k ,0k ,0k ,0k ,0%,0%,0k ,0k ,0%,0%,0k ,0k ,0k ,0k ,0%
 005PC00000u3iPFYAY,LATAM,Alan Schulte,Alessia Villasana,Dunia Carrasco,SSAC,Ramped,81,0,0,0k ,⛔,0k ,0k ,0k ,0k ,0k ,0k ,0k ,0%,0%,0k ,0k ,0%,0%,0k ,0k ,0k ,0k ,0%
