@@ -1,182 +1,182 @@
 ,,,,,,,Open Pipeline ARR,,,,,,,,,,,,,Open Pipeline Deals,,,,,,,,,,,,
 ,Region,Director,Manager,AE Name,Role Type,Ramped,Total Open Pipeline,Commit,Most Likely,Best Case,Late Stage,Early Stage,AI,CoPilot,AI Agents,WEM/QA,Total AI Attach,New Business,NB CoPilot Attach,Total Open Pipeline,Commit,Most Likely,Best Case,Late Stage,Early Stage,AI,CoPilot,AI Agents,WEM/QA,Total AI Attach,New Business,NB CoPilot Attach
-005PC00000wIy7ZYAS,LATAM,Alan Schulte,Alessia Villasana,Ana Zamacona,SSAC,Ramped,199k ,5k ,186k ,8k ,188k ,11k ,107k ,65k ,21k ,21k ,80%,183k ,100%,5,1,3,1,3,2,4,4,1,1,80%,2,100%
-005PC00000xXUjhYAG,LATAM,Alan Schulte,Alessia Villasana,Bianca Grullon,SSAC,Unramped,86k ,5k ,74k ,0k ,27k ,59k ,32k ,18k ,8k ,6k ,56%,39k ,50%,9,2,6,0,4,5,5,3,3,1,56%,2,50%
-005PC00000wssYHYAY,LATAM,Alan Schulte,Alessia Villasana,Mauricio Zúñiga,SSAC,Unramped,51k ,9k ,23k ,3k ,42k ,9k ,24k ,3k ,5k ,17k ,50%,22k ,0%,6,2,2,1,4,2,3,1,1,1,50%,2,0%
+005PC00000wIy7ZYAS,LATAM,Alan Schulte,Alessia Villasana,Ana Zamacona,SSAC,Ramped,198k ,5k ,186k ,7k ,188k ,10k ,107k ,65k ,21k ,21k ,67%,183k ,100%,6,1,3,1,3,3,4,4,1,1,67%,2,100%
+005PC00000xXUjhYAG,LATAM,Alan Schulte,Alessia Villasana,Bianca Grullon,SSAC,Unramped,49k ,5k ,36k ,0k ,27k ,22k ,11k ,3k ,7k ,0k ,38%,2k ,0%,8,2,5,0,4,4,3,1,2,0,38%,1,0%
+005PC00000wssYHYAY,LATAM,Alan Schulte,Alessia Villasana,Mauricio Zúñiga,SSAC,Unramped,53k ,9k ,23k ,3k ,42k ,11k ,24k ,3k ,5k ,17k ,43%,22k ,0%,7,2,2,1,4,3,3,1,1,1,43%,2,0%
 005PC00000yT7LJYA0,LATAM,Alan Schulte,Alessia Villasana,Tamara Tamez,SSAC,Unramped,0k ,0k ,0k ,0k ,0k ,0k ,0k ,0k ,0k ,0k ,0%,0k ,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%
-005PC00000OdpZVYAZ,LATAM,Alan Schulte,Alessia Villasana,Mariano Espinosa,SSAC,Unramped,108k ,20k ,85k ,0k ,108k ,0k ,55k ,0k ,30k ,7k ,50%,57k ,0%,6,1,3,0,5,1,3,0,1,1,50%,3,0%
+005PC00000OdpZVYAZ,LATAM,Alan Schulte,Alessia Villasana,Mariano Espinosa,SSAC,Unramped,117k ,20k ,85k ,0k ,108k ,9k ,55k ,0k ,30k ,7k ,50%,65k ,0%,6,1,3,0,5,1,3,0,1,1,50%,3,0%
 005PC00000x1I8zYAE,LATAM,Alan Schulte,Alessia Villasana,Alex Del Valle,SSAC,Unramped,117k ,3k ,107k ,7k ,110k ,8k ,84k ,60k ,24k ,0k ,57%,87k ,67%,7,1,5,1,6,1,4,4,2,0,57%,3,67%
 005PC00000voU0TYAU,NAMER,Mark Hochman,Ashley Coneeny,Chris Dicso,NAE East,Ramped,0k ,0k ,0k ,0k ,0k ,0k ,0k ,0k ,0k ,0k ,0%,0k ,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%
 005PC00000wvjS1YAI,NAMER,Mark Hochman,Ashley Coneeny,Colby Edgmon,NAE East,Unramped,29k ,0k ,0k ,29k ,29k ,0k ,25k ,5k ,20k ,0k ,100%,29k ,100%,1,0,0,1,1,0,1,1,1,0,100%,1,100%
-0056R00000ChkGoQAJ,NAMER,Mark Hochman,Ashley Coneeny,Dominic Boese,NAE East,Ramped,80k ,0k ,0k ,80k ,80k ,0k ,7k ,2k ,0k ,0k ,33%,80k ,33%,3,0,0,3,3,0,1,1,1,0,33%,3,33%
+0056R00000ChkGoQAJ,NAMER,Mark Hochman,Ashley Coneeny,Dominic Boese,NAE East,Ramped,36k ,0k ,0k ,36k ,36k ,0k ,3k ,2k ,0k ,0k ,50%,36k ,50%,2,0,0,2,2,0,1,1,1,0,50%,2,50%
 005PC00000G3CLBYA3,NAMER,Mark Hochman,Ashley Coneeny,Paolo Cannizzaro,NAE East,Ramped,44k ,0k ,44k ,0k ,44k ,0k ,15k ,15k ,0k ,0k ,100%,44k ,100%,1,0,1,0,1,0,1,1,0,0,100%,1,100%
-005PC00000ounhBYAQ,NAMER,Mark Hochman,Ashley Coneeny,Chuk Chukwuka,NAE East,Ramped,81k ,40k ,5k ,36k ,81k ,0k ,34k ,23k ,2k ,8k ,100%,76k ,100%,3,1,1,1,3,0,3,3,1,1,100%,2,100%
+005PC00000ounhBYAQ,NAMER,Mark Hochman,Ashley Coneeny,Chuk Chukwuka,NAE East,Ramped,67k ,26k ,42k ,0k ,67k ,0k ,28k ,17k ,2k ,8k ,100%,62k ,100%,3,1,2,0,3,0,3,3,1,1,100%,2,100%
 005PC00000tuQPxYAM,NAMER,Mark Hochman,Ashley Coneeny,Justin Brosnan,NAE East,Unramped,0k ,0k ,0k ,0k ,0k ,0k ,0k ,0k ,0k ,0k ,0%,0k ,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%
 005PC00000ktfzJYAQ,NAMER,Mark Hochman,Ashley Coneeny,Bella Yaggie,NAE East,Ramped,76k ,14k ,63k ,0k ,76k ,0k ,36k ,15k ,21k ,0k ,50%,76k ,50%,2,1,1,0,2,0,1,1,1,0,50%,2,50%
 0056R00000E6m6GQAR,NAMER,Mark Hochman,Ashley Coneeny,Alex Gomez,NAE East,Ramped,86k ,86k ,0k ,0k ,86k ,0k ,53k ,16k ,20k ,3k ,100%,86k ,100%,2,2,0,0,2,0,2,2,1,1,100%,2,100%
-005PC00000xr3FVYAY,NAMER,Mark Hochman,Ashley Coneeny,Brian Cardenas,NAE East,Unramped,0k ,0k ,0k ,0k ,0k ,0k ,0k ,0k ,0k ,0k ,0%,0k ,0%,1,0,1,0,1,0,0,0,0,0,0%,1,0%
+005PC00000xr3FVYAY,NAMER,Mark Hochman,Ashley Coneeny,Brian Cardenas,NAE East,Unramped,27k ,0k ,27k ,0k ,27k ,0k ,0k ,0k ,0k ,0k ,0%,27k ,0%,1,0,1,0,1,0,0,0,0,0,0%,1,0%
 005PC00000luAsrYAE,NAMER,Mark Hochman,Ashley Coneeny,Cesar Garza,NAE East,Ramped,19k ,0k ,0k ,19k ,19k ,0k ,4k ,4k ,0k ,0k ,100%,19k ,100%,1,0,0,1,1,0,1,1,0,0,100%,1,100%
-0056R00000ChkgwQAB,NAMER,Mark Hochman,Ashley Coneeny,Reggie Douglas,NAE East,Ramped,112k ,88k ,0k ,24k ,112k ,0k ,89k ,52k ,33k ,4k ,100%,112k ,75%,4,3,0,1,4,0,4,3,1,1,100%,4,75%
+0056R00000ChkgwQAB,NAMER,Mark Hochman,Ashley Coneeny,Reggie Douglas,NAE East,Ramped,137k ,76k ,0k ,61k ,137k ,0k ,119k ,57k ,33k ,11k ,100%,137k ,67%,3,2,0,1,3,0,3,2,1,1,100%,3,67%
 005PC00000kGZAbYAO,NAMER,Mark Hochman,Ashley Coneeny,Brandon Alt,NAE East,Unramped,0k ,0k ,0k ,0k ,0k ,0k ,0k ,0k ,0k ,0k ,0%,0k ,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%
 005PC00000yF6nJYAS,NAMER,Khalil Mujadedi,Bentley Geldard,Andrew Eckhoff,NAE Central,Unramped,21k ,0k ,0k ,13k ,13k ,9k ,0k ,0k ,0k ,0k ,0%,0k ,0%,3,0,0,1,1,2,0,0,0,0,0%,0,0%
-005PC00000tmHZxYAM,NAMER,Khalil Mujadedi,Bentley Geldard,Daniel Listrom,CAE East,Ramped,161k ,0k ,79k ,83k ,143k ,19k ,150k ,45k ,35k ,0k ,50%,0k ,0%,6,0,2,3,4,2,3,2,2,0,50%,0,0%
-005PC00000wvjqDYAQ,NAMER,Khalil Mujadedi,Bentley Geldard,Steven Novak JR,CAE East,Unramped,70k ,0k ,0k ,70k ,70k ,0k ,70k ,70k ,0k ,0k ,60%,0k ,0%,5,0,0,3,4,1,3,3,0,0,60%,0,0%
-0056R00000Chl8gQAB,NAMER,Khalil Mujadedi,Bentley Geldard,Heidrich Vicci,CAE East,Ramped,121k ,0k ,47k ,74k ,121k ,1k ,122k ,47k ,23k ,6k ,80%,0k ,0%,5,0,2,3,4,1,4,3,2,1,80%,0,0%
-005PC00000dkUXhYAM,NAMER,Khalil Mujadedi,Bentley Geldard,Shawn Stracener,CAE East,Ramped,114k ,0k ,37k ,76k ,104k ,9k ,180k ,97k ,6k ,76k ,75%,0k ,0%,4,0,1,3,2,2,3,2,1,2,75%,0,0%
-005PC00000qFiijYAC,NAMER,Khalil Mujadedi,Bentley Geldard,Logan Cole,CAE East,Unramped,357k ,219k ,0k ,137k ,303k ,54k ,501k ,44k ,239k ,70k ,100%,0k ,0%,6,3,0,3,5,1,6,3,5,2,100%,0,0%
-005PC00000jvdSXYAY,NAMER,Khalil Mujadedi,Bentley Geldard,Tim Pryor,CAE East,Ramped,70k ,0k ,30k ,40k ,50k ,20k ,70k ,0k ,70k ,0k ,100%,0k ,0%,3,0,1,2,2,1,3,0,3,0,100%,0,0%
-005PC00000fX9phYAC,NAMER,Khalil Mujadedi,Bentley Geldard,Zachary Maret,CAE East,Unramped,123k ,0k ,14k ,42k ,99k ,24k ,18k ,0k ,18k ,0k ,20%,67k ,0%,5,0,1,2,3,2,1,0,1,0,20%,1,0%
-005PC00000or1PNYAY,NAMER,Michelle Roos,Cameron Shimizu,Christopher Hall,CAE West,Ramped,52k ,0k ,0k ,52k ,0k ,52k ,52k ,3k ,15k ,0k ,67%,0k ,0%,3,0,0,2,0,3,2,1,1,0,67%,0,0%
-005PC00000jvdPJYAY,NAMER,Michelle Roos,Cameron Shimizu,Rebecca Lee,CAE West,Ramped,39k ,21k ,10k ,0k ,10k ,29k ,22k ,2k ,0k ,20k ,67%,0k ,0%,3,1,1,0,1,2,2,1,0,1,67%,0,0%
-005PC00000mO94vYAC,NAMER,Michelle Roos,Cameron Shimizu,Chris Eddy,CAE West,Ramped,176k ,47k ,56k ,74k ,176k ,0k ,176k ,59k ,40k ,0k ,100%,0k ,0%,6,1,2,3,6,0,6,2,3,0,100%,0,0%
-0056R00000E6lBFQAZ,NAMER,Michelle Roos,Cameron Shimizu,Ben Ogulnick,CAE West,Ramped,119k ,0k ,58k ,59k ,86k ,34k ,62k ,0k ,26k ,9k ,33%,0k ,0%,9,0,4,2,5,4,3,0,2,1,33%,0,0%
-005PC00000wvjbhYAA,NAMER,Michelle Roos,Cameron Shimizu,Jacob Hurst,CAE West,Unramped,107k ,0k ,76k ,30k ,28k ,78k ,75k ,30k ,3k ,0k ,80%,0k ,0%,5,0,3,2,2,3,4,2,1,0,80%,0,0%
-005PC00000kf60XYAQ,NAMER,Michelle Roos,Cameron Shimizu,Andrew Summers,CAE West,Ramped,131k ,0k ,48k ,78k ,83k ,49k ,78k ,78k ,0k ,0k ,40%,0k ,0%,5,0,2,2,3,2,2,2,0,0,40%,0,0%
-005PC00000wf5qLYAQ,NAMER,Michelle Roos,Cameron Shimizu,Michael Lowe,CAE West,Unramped,345k ,0k ,177k ,168k ,0k ,345k ,184k ,80k ,0k ,67k ,50%,0k ,0%,6,0,3,2,1,5,3,2,0,2,50%,0,0%
+005PC00000tmHZxYAM,NAMER,Khalil Mujadedi,Bentley Geldard,Daniel Listrom,CAE East,Ramped,212k ,0k ,142k ,70k ,212k ,0k ,161k ,45k ,46k ,0k ,67%,0k ,0%,6,0,3,2,5,1,4,2,3,0,67%,0,0%
+005PC00000wvjqDYAQ,NAMER,Khalil Mujadedi,Bentley Geldard,Steven Novak JR,CAE East,Unramped,70k ,0k ,0k ,70k ,70k ,0k ,70k ,70k ,0k ,0k ,75%,0k ,0%,4,0,0,3,4,0,3,3,0,0,75%,0,0%
+0056R00000Chl8gQAB,NAMER,Khalil Mujadedi,Bentley Geldard,Heidrich Vicci,CAE East,Ramped,93k ,0k ,74k ,19k ,93k ,1k ,117k ,43k ,23k ,6k ,80%,0k ,0%,5,0,3,2,4,1,4,3,2,1,80%,0,0%
+005PC00000dkUXhYAM,NAMER,Khalil Mujadedi,Bentley Geldard,Shawn Stracener,CAE East,Ramped,119k ,0k ,37k ,82k ,104k ,15k ,193k ,97k ,18k ,76k ,100%,0k ,0%,4,0,1,3,2,2,4,2,1,2,100%,0,0%
+005PC00000qFiijYAC,NAMER,Khalil Mujadedi,Bentley Geldard,Logan Cole,CAE East,Unramped,344k ,207k ,0k ,137k ,290k ,54k ,432k ,44k ,201k ,70k ,100%,0k ,0%,6,3,0,3,5,1,6,3,5,2,100%,0,0%
+005PC00000jvdSXYAY,NAMER,Khalil Mujadedi,Bentley Geldard,Tim Pryor,CAE East,Ramped,128k ,0k ,0k ,128k ,108k ,20k ,128k ,10k ,100k ,0k ,100%,0k ,0%,3,0,0,3,2,1,3,1,3,0,100%,0,0%
+005PC00000fX9phYAC,NAMER,Khalil Mujadedi,Bentley Geldard,Zachary Maret,CAE East,Unramped,137k ,0k ,14k ,56k ,106k ,31k ,25k ,0k ,0k ,0k ,20%,67k ,0%,5,0,1,3,3,2,1,0,0,0,20%,1,0%
+005PC00000or1PNYAY,NAMER,Michelle Roos,Cameron Shimizu,Christopher Hall,CAE West,Ramped,52k ,0k ,0k ,52k ,0k ,52k ,52k ,3k ,15k ,0k ,67%,0k ,0%,3,0,0,3,0,3,2,1,1,0,67%,0,0%
+005PC00000jvdPJYAY,NAMER,Michelle Roos,Cameron Shimizu,Rebecca Lee,CAE West,Ramped,31k ,21k ,10k ,0k ,10k ,21k ,20k ,0k ,0k ,20k ,33%,0k ,0%,3,1,1,0,1,2,1,0,0,1,33%,0,0%
+005PC00000mO94vYAC,NAMER,Michelle Roos,Cameron Shimizu,Chris Eddy,CAE West,Ramped,176k ,47k ,56k ,74k ,176k ,0k ,225k ,59k ,98k ,0k ,100%,0k ,0%,6,1,2,3,6,0,6,2,3,0,100%,0,0%
+0056R00000E6lBFQAZ,NAMER,Michelle Roos,Cameron Shimizu,Ben Ogulnick,CAE West,Ramped,121k ,2k ,58k ,59k ,86k ,36k ,62k ,0k ,26k ,9k ,38%,0k ,0%,8,1,4,2,4,4,3,0,2,1,38%,0,0%
+005PC00000wvjbhYAA,NAMER,Michelle Roos,Cameron Shimizu,Jacob Hurst,CAE West,Unramped,96k ,0k ,65k ,30k ,17k ,78k ,51k ,6k ,3k ,0k ,75%,0k ,0%,4,0,2,2,1,3,3,1,1,0,75%,0,0%
+005PC00000kf60XYAQ,NAMER,Michelle Roos,Cameron Shimizu,Andrew Summers,CAE West,Ramped,97k ,0k ,48k ,44k ,48k ,49k ,44k ,44k ,0k ,0k ,25%,0k ,0%,4,0,2,1,2,2,1,1,0,0,25%,0,0%
+005PC00000wf5qLYAQ,NAMER,Michelle Roos,Cameron Shimizu,Michael Lowe,CAE West,Unramped,279k ,14k ,254k ,6k ,264k ,14k ,287k ,157k ,0k ,121k ,50%,0k ,0%,6,1,2,1,3,3,3,2,0,2,50%,0,0%
 005PC00000TdKMLYA3,NAMER,Michelle Roos,Cameron Shimizu,Kristi Brown,CAE West,Ramped,55k ,0k ,37k ,11k ,48k ,7k ,92k ,29k ,20k ,33k ,75%,0k ,0%,4,0,2,1,3,1,3,2,1,2,75%,0,0%
-005PC00000Ta50TYAR,EMEA,Keith Claffey,Christian Müller,Annika Chamberlaine,NDE,Ramped,146k ,15k ,89k ,33k ,113k ,33k ,115k ,51k ,43k ,0k ,64%,76k ,75%,11,2,5,3,8,3,7,6,3,0,64%,4,75%
-005PC00000xr3nNYAQ,EMEA,Keith Claffey,Christian Müller,Andreas Bruecker,NDE,Unramped,130k ,0k ,0k ,94k ,26k ,104k ,107k ,15k ,77k ,0k ,75%,0k ,0%,4,0,0,2,1,3,3,2,1,0,75%,0,0%
-0056R00000AL1t8QAD,EMEA,Keith Claffey,Christian Müller,Samuel Fessahaye,NDE,Unramped,58k ,0k ,8k ,50k ,49k ,9k ,2k ,2k ,0k ,0k ,20%,58k ,25%,5,0,2,3,2,3,1,1,0,0,20%,4,25%
-005PC00000RtqRRYAZ,EMEA,Keith Claffey,Christian Müller,Tim Doppel,NDE,Ramped,78k ,64k ,13k ,0k ,64k ,13k ,33k ,15k ,9k ,10k ,75%,48k ,100%,4,2,1,1,3,1,3,1,1,1,75%,1,100%
-005PC00000xMkGjYAK,EMEA,Keith Claffey,Christian Müller,Christopher Battle,NDE,Unramped,196k ,0k ,165k ,28k ,142k ,54k ,102k ,38k ,64k ,0k ,83%,165k ,100%,6,0,3,1,3,3,5,4,3,0,83%,3,100%
-005PC00000x6EXnYAM,EMEA,Keith Claffey,Christian Müller,Lukas Popp,NDE,Unramped,37k ,0k ,0k ,21k ,0k ,37k ,0k ,0k ,0k ,0k ,0%,10k ,0%,3,0,0,2,0,3,0,0,0,0,0%,1,0%
+005PC00000Ta50TYAR,EMEA,Keith Claffey,Christian Müller,Annika Chamberlaine,NDE,Ramped,146k ,15k ,89k ,43k ,113k ,33k ,115k ,51k ,43k ,0k ,64%,76k ,75%,11,2,5,4,8,3,7,6,3,0,64%,4,75%
+005PC00000xr3nNYAQ,EMEA,Keith Claffey,Christian Müller,Andreas Bruecker,NDE,Unramped,129k ,0k ,10k ,94k ,25k ,104k ,107k ,15k ,77k ,0k ,75%,0k ,0%,4,0,1,2,1,3,3,2,1,0,75%,0,0%
+0056R00000AL1t8QAD,EMEA,Keith Claffey,Christian Müller,Samuel Fessahaye,NDE,Unramped,58k ,49k ,8k ,1k ,49k ,9k ,2k ,2k ,0k ,0k ,20%,58k ,25%,5,1,2,2,2,3,1,1,0,0,20%,4,25%
+005PC00000RtqRRYAZ,EMEA,Keith Claffey,Christian Müller,Tim Doppel,NDE,Ramped,76k ,15k ,62k ,0k ,63k ,13k ,33k ,15k ,9k ,10k ,75%,48k ,100%,4,1,2,1,3,1,3,1,1,1,75%,1,100%
+005PC00000xMkGjYAK,EMEA,Keith Claffey,Christian Müller,Christopher Battle,NDE,Unramped,193k ,0k ,165k ,28k ,139k ,54k ,99k ,35k ,64k ,0k ,80%,165k ,100%,5,0,3,1,2,3,4,3,3,0,80%,3,100%
+005PC00000x6EXnYAM,EMEA,Keith Claffey,Christian Müller,Lukas Popp,NDE,Unramped,27k ,0k ,0k ,11k ,0k ,27k ,0k ,0k ,0k ,0k ,0%,0k ,0%,2,0,0,1,0,2,0,0,0,0,0%,0,0%
 005PC00000xMkOnYAK,EMEA,Keith Claffey,Christian Müller,Tijan Fölling,NDE,Unramped,63k ,0k ,0k ,62k ,0k ,62k ,217k ,0k ,184k ,0k ,100%,0k ,0%,2,0,0,1,1,1,2,0,2,0,100%,0,0%
 005PC00000NYLsnYAH,NAMER,Michelle Roos,Christopher McKee,Cassie Fray,CAE West,Ramped,75k ,0k ,60k ,15k ,65k ,9k ,71k ,66k ,0k ,5k ,60%,0k ,0%,5,0,2,3,3,2,3,3,0,1,60%,0,0%
-005PC00000nlhQHYAY,NAMER,Michelle Roos,Christopher McKee,Justice Grady,CAE West,Ramped,28k ,0k ,0k ,28k ,28k ,0k ,28k ,0k ,28k ,0k ,100%,0k ,0%,1,0,0,1,1,0,1,0,1,0,100%,0,0%
+005PC00000nlhQHYAY,NAMER,Michelle Roos,Christopher McKee,Justice Grady,CAE West,Ramped,0k ,0k ,0k ,0k ,0k ,0k ,0k ,0k ,0k ,0k ,0%,0k ,0%,1,0,0,0,0,1,0,0,0,0,0%,0,0%
 005PC00000OdnavYAB,NAMER,Michelle Roos,Christopher McKee,Carolyn Rodgers,CAE West,Ramped,2k ,2k ,0k ,0k ,0k ,2k ,0k ,0k ,0k ,0k ,0%,0k ,0%,1,1,0,0,0,1,0,0,0,0,0%,0,0%
-005PC00000wssLNYAY,NAMER,Michelle Roos,Christopher McKee,Ian Davidson,CAE West,Unramped,163k ,0k ,127k ,37k ,106k ,57k ,160k ,39k ,40k ,27k ,80%,0k ,0%,5,0,2,3,2,3,4,2,2,1,80%,0,0%
-005PC00000wkiO1YAI,NAMER,Michelle Roos,Christopher McKee,Kevin Anderson,CAE West,Unramped,92k ,0k ,85k ,1k ,40k ,51k ,132k ,86k ,3k ,6k ,78%,0k ,0%,9,0,5,1,3,6,7,5,2,1,78%,0,0%
-0056R00000ALWrNQAX,NAMER,Michelle Roos,Christopher McKee,Taylor Daum,CAE West,Ramped,-35,0k ,-79,43k ,0k ,-35,33k ,0k ,15k ,0k ,50%,0k ,0%,2,0,1,1,0,2,1,0,1,0,50%,0,0%
+005PC00000wssLNYAY,NAMER,Michelle Roos,Christopher McKee,Ian Davidson,CAE West,Unramped,196k ,0k ,81k ,115k ,139k ,57k ,196k ,57k ,30k ,54k ,100%,0k ,0%,5,0,2,3,2,3,5,3,1,2,100%,0,0%
+005PC00000wkiO1YAI,NAMER,Michelle Roos,Christopher McKee,Kevin Anderson,CAE West,Unramped,101k ,15k ,83k ,1k ,68k ,34k ,139k ,93k ,3k ,6k ,90%,0k ,0%,10,1,6,1,5,5,9,7,2,1,90%,0,0%
+0056R00000ALWrNQAX,NAMER,Michelle Roos,Christopher McKee,Taylor Daum,CAE West,Ramped,43k ,0k ,0k ,43k ,0k ,43k ,33k ,0k ,15k ,0k ,100%,0k ,0%,1,0,0,1,0,1,1,0,1,0,100%,0,0%
 005PC00000xe29BYAQ,APAC,Sean Woodward,Georgina Gu,Abigail Lin,Asia,Unramped,44k ,0k ,43k ,0k ,43k ,1k ,12k ,12k ,0k ,0k ,100%,43k ,100%,2,0,1,0,1,1,2,2,0,0,100%,1,100%
-005PC00000wqu4jYAA,APAC,Sean Woodward,Georgina Gu,Eric Choi,Asia,Unramped,143k ,0k ,5k ,136k ,121k ,22k ,25k ,5k ,20k ,0k ,67%,120k ,0%,9,0,1,6,2,7,6,3,4,0,67%,3,0%
-005PC00000wNNAbYAO,APAC,Sean Woodward,Georgina Gu,Gwen Chen,Asia,Ramped,722k ,0k ,701k ,10k ,711k ,11k ,239k ,5k ,200k ,0k ,29%,1k ,0%,7,0,1,1,2,5,2,1,1,0,29%,1,0%
-005PC00000uxxGjYAI,APAC,Sean Woodward,Georgina Gu,Yana Ross,Asia,Ramped,68k ,0k ,15k ,51k ,28k ,40k ,42k ,11k ,20k ,5k ,71%,8k ,0%,7,0,2,4,2,5,5,2,2,1,71%,1,0%
-005PC00000xmcDtYAI,APAC,Sean Woodward,Georgina Gu,Qinxuan Ling,Asia,Unramped,63k ,8k ,17k ,36k ,19k ,44k ,40k ,25k ,15k ,0k ,25%,14k ,0%,8,1,2,2,3,5,2,2,1,0,25%,3,0%
+005PC00000wqu4jYAA,APAC,Sean Woodward,Georgina Gu,Eric Choi,Asia,Unramped,128k ,0k ,5k ,121k ,121k ,7k ,8k ,3k ,5k ,0k ,40%,120k ,0%,5,0,1,2,2,3,2,1,1,0,40%,3,0%
+005PC00000wNNAbYAO,APAC,Sean Woodward,Georgina Gu,Gwen Chen,Asia,Ramped,701k ,0k ,701k ,0k ,701k ,0k ,351k ,0k ,300k ,0k ,100%,0k ,0%,1,0,1,0,1,0,1,0,1,0,100%,0,0%
+005PC00000uxxGjYAI,APAC,Sean Woodward,Georgina Gu,Yana Ross,Asia,Ramped,31k ,0k ,15k ,14k ,8k ,23k ,17k ,2k ,10k ,5k ,60%,8k ,0%,5,0,2,2,1,4,3,1,1,1,60%,1,0%
+005PC00000xmcDtYAI,APAC,Sean Woodward,Georgina Gu,Qinxuan Ling,Asia,Unramped,61k ,8k ,14k ,36k ,17k ,44k ,40k ,25k ,15k ,0k ,25%,12k ,0%,8,1,2,2,3,5,2,2,1,0,25%,3,0%
 005PC00000wVqgrYAC,APAC,Sean Woodward,Georgina Gu,Lin Yemei,Asia,Unramped,0k ,0k ,0k ,0k ,0k ,0k ,0k ,0k ,0k ,0k ,0%,0k ,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%
-005PC00000wvjLZYAY,APAC,Sean Woodward,Georgina Gu,Angel Cheng,Asia,Unramped,78k ,5k ,18k ,32k ,0k ,78k ,34k ,11k ,23k ,0k ,43%,22k ,29%,23,1,3,6,0,23,10,6,7,0,43%,7,29%
+005PC00000wvjLZYAY,APAC,Sean Woodward,Georgina Gu,Angel Cheng,Asia,Unramped,68k ,5k ,12k ,24k ,0k ,68k ,39k ,9k ,23k ,0k ,50%,8k ,20%,20,1,2,5,0,20,10,5,7,0,50%,5,20%
 0051E00000FsAEOQA3,EMEA,Keith Claffey,Haitham Khalil,Eran Gicelter,NDE,Ramped,225k ,116k ,0k ,107k ,225k ,0k ,136k ,40k ,51k ,45k ,83%,0k ,0%,6,2,0,3,6,0,5,2,3,3,83%,0,0%
-0051E00000Dx52FQAR,EMEA,Keith Claffey,Haitham Khalil,Piotr Jakubowski,NDE,Ramped,0k ,0k ,0k ,0k ,0k ,0k ,0k ,0k ,0k ,0k ,0%,0k ,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%
-005PC00000twVtNYAU,EMEA,Keith Claffey,Haitham Khalil,Ioana Francu,NDE,Ramped,79k ,0k ,0k ,75k ,16k ,63k ,57k ,42k ,15k ,0k ,100%,20k ,100%,5,0,0,4,1,4,5,4,2,0,100%,2,100%
-005PC00000yInVxYAK,EMEA,Keith Claffey,Haitham Khalil,Ivana Jakupec,NDE,Unramped,252k ,8k ,135k ,110k ,246k ,6k ,161k ,84k ,61k ,16k ,71%,114k ,100%,14,1,3,10,11,3,10,8,5,2,71%,1,100%
+0051E00000Dx52FQAR,EMEA,Keith Claffey,Haitham Khalil,Piotr Jakubowski,NDE,Ramped,0k ,0k ,0k ,0k ,0k ,0k ,0k ,0k ,0k ,0k ,0%,0k ,0%,1,0,0,0,1,0,0,0,0,0,0%,0,0%
+005PC00000twVtNYAU,EMEA,Keith Claffey,Haitham Khalil,Ioana Francu,NDE,Ramped,99k ,0k ,0k ,95k ,16k ,83k ,51k ,36k ,15k ,0k ,67%,20k ,50%,6,0,0,5,1,5,4,3,2,0,67%,2,50%
+005PC00000yInVxYAK,EMEA,Keith Claffey,Haitham Khalil,Ivana Jakupec,NDE,Unramped,239k ,8k ,135k ,96k ,233k ,6k ,163k ,84k ,61k ,18k ,71%,114k ,100%,14,1,3,10,11,3,10,8,5,3,71%,1,100%
 0056R00000E6lCNQAZ,EMEA,Keith Claffey,Haitham Khalil,Andrey Rogach,NDE,Unramped,4k ,0k ,4k ,0k ,4k ,0k ,10k ,10k ,0k ,0k ,100%,0k ,100%,2,0,1,1,2,0,2,2,0,0,100%,1,100%
-005PC00000eJdY5YAK,EMEA,Keith Claffey,Haitham Khalil,Gizem Erzeybek,NDE,Ramped,80k ,4k ,53k ,7k ,66k ,14k ,52k ,6k ,46k ,0k ,40%,10k ,0%,5,1,2,1,3,2,2,2,1,0,40%,2,0%
+005PC00000eJdY5YAK,EMEA,Keith Claffey,Haitham Khalil,Gizem Erzeybek,NDE,Ramped,78k ,2k ,53k ,7k ,64k ,14k ,52k ,6k ,46k ,0k ,40%,8k ,0%,5,1,2,1,3,2,2,2,1,0,40%,2,0%
 0056R00000AL7p2QAD,EMEA,Keith Claffey,Haitham Khalil,Ahmed Mahmoud,NDE,Ramped,10k ,0k ,0k ,9k ,1k ,9k ,0k ,0k ,0k ,0k ,0%,9k ,0%,4,0,0,3,2,2,0,0,0,0,0%,2,0%
-0056R00000ChlsoQAB,EMEA,Mathieu Bourreau,Jesse Blok,Delphine Ohayon,South,Ramped,27k ,0k ,13k ,14k ,0k ,27k ,13k ,13k ,0k ,0k ,50%,14k ,0%,4,1,1,2,1,3,2,1,1,0,50%,2,0%
+0056R00000ChlsoQAB,EMEA,Mathieu Bourreau,Jesse Blok,Delphine Ohayon,South,Ramped,22k ,0k ,13k ,9k ,0k ,22k ,21k ,21k ,0k ,0k ,75%,9k ,0%,4,2,1,1,2,2,3,2,1,0,75%,1,0%
 0056R00000AL7pMQAT,EMEA,Mathieu Bourreau,Jesse Blok,Robert Moore,South,Ramped,124k ,61k ,64k ,0k ,61k ,64k ,29k ,5k ,10k ,0k ,50%,0k ,0%,2,1,1,0,1,1,1,1,1,0,50%,0,0%
-005PC00000nlZSjYAM,EMEA,Mathieu Bourreau,Jesse Blok,Basile Charpentier,South,Ramped,6k ,0k ,0k ,6k ,0k ,6k ,6k ,0k ,6k ,0k ,100%,0k ,0%,1,0,0,1,0,1,1,0,1,0,100%,0,0%
-005PC00000nljwjYAA,EMEA,Mathieu Bourreau,Jesse Blok,Yazmin Cabrera,South,Ramped,24k ,3k ,18k ,0k ,24k ,0k ,21k ,21k ,0k ,0k ,40%,8k ,100%,5,1,2,0,4,1,2,2,0,0,40%,1,100%
-005PC00000vtnqTYAQ,EMEA,Mathieu Bourreau,Jesse Blok,Kanyinsola Olusanjo,South,Ramped,124k ,71k ,27k ,25k ,71k ,52k ,79k ,22k ,41k ,17k ,40%,92k ,50%,5,1,1,2,1,4,2,1,2,1,40%,2,50%
+005PC00000nlZSjYAM,EMEA,Mathieu Bourreau,Jesse Blok,Basile Charpentier,South,Ramped,0k ,0k ,0k ,0k ,0k ,0k ,0k ,0k ,0k ,0k ,0%,0k ,0%,1,0,0,0,0,1,0,0,0,0,0%,0,0%
+005PC00000nljwjYAA,EMEA,Mathieu Bourreau,Jesse Blok,Yazmin Cabrera,South,Ramped,8k ,0k ,8k ,0k ,8k ,0k ,3k ,3k ,0k ,0k ,50%,8k ,100%,2,0,1,0,1,1,1,1,0,0,50%,1,100%
+005PC00000vtnqTYAQ,EMEA,Mathieu Bourreau,Jesse Blok,Kanyinsola Olusanjo,South,Ramped,119k ,71k ,27k ,21k ,71k ,48k ,79k ,22k ,41k ,17k ,50%,92k ,50%,4,1,1,1,1,3,2,1,2,1,50%,2,50%
 0056R00000D895dQAB,EMEA,Mathieu Bourreau,Jesse Blok,Alessio Tibiletti,South,Unramped,189k ,189k ,0k ,0k ,189k ,0k ,57k ,57k ,0k ,0k ,50%,189k ,67%,4,3,0,0,3,1,2,2,0,0,50%,3,67%
 0056R00000E6lCcQAJ,EMEA,Mathieu Bourreau,Jesse Blok,Alex Murray-Moran,South,Unramped,52k ,16k ,36k ,0k ,16k ,36k ,16k ,0k ,16k ,0k ,67%,0k ,0%,3,2,1,0,2,1,2,0,2,0,67%,0,0%
-005PC00000gXMG5YAO,NAMER,Khalil Mujadedi,Justin Dube,Daniel Medrano,CAE East,Ramped,604k ,178k ,169k ,256k ,540k ,64k ,645k ,126k ,415k ,0k ,88%,0k ,0%,8,2,2,4,5,3,7,3,4,0,88%,0,0%
-005PC00000YyOtVYAV,NAMER,Khalil Mujadedi,Justin Dube,Katie Gasc,CAE East,Ramped,239k ,0k ,208k ,28k ,211k ,27k ,87k ,62k ,8k ,0k ,40%,0k ,0%,5,0,1,2,2,3,2,1,1,0,40%,0,0%
+005PC00000gXMG5YAO,NAMER,Khalil Mujadedi,Justin Dube,Daniel Medrano,CAE East,Ramped,472k ,140k ,78k ,254k ,410k ,62k ,510k ,124k ,300k ,0k ,86%,0k ,0%,7,2,1,4,4,3,6,3,3,0,86%,0,0%
+005PC00000YyOtVYAV,NAMER,Khalil Mujadedi,Justin Dube,Katie Gasc,CAE East,Ramped,257k ,0k ,208k ,28k ,211k ,46k ,106k ,62k ,8k ,19k ,60%,0k ,0%,5,0,1,2,2,3,3,1,1,1,60%,0,0%
 005PC00000wvjobYAA,NAMER,Khalil Mujadedi,Justin Dube,Brendan McClendon,CAE East,Unramped,86k ,0k ,0k ,86k ,86k ,0k ,86k ,0k ,53k ,0k ,100%,0k ,0%,1,0,0,1,1,0,1,0,1,0,100%,0,0%
-005PC00000oqyEbYAI,NAMER,Khalil Mujadedi,Justin Dube,Chauncey Shoesmith,CAE East,Ramped,179k ,8k ,0k ,13k ,167k ,13k ,8k ,8k ,0k ,1k ,40%,159k ,0%,5,1,0,2,3,2,2,1,0,1,40%,2,0%
-005PC00000fatmLYAQ,NAMER,Khalil Mujadedi,Justin Dube,Jim Tesorero,CAE East,Ramped,72k ,0k ,0k ,71k ,23k ,49k ,98k ,29k ,17k ,0k ,50%,0k ,0%,6,0,0,3,1,5,3,2,2,0,50%,0,0%
-005PC00000HfEtFYAV,NAMER,Khalil Mujadedi,Justin Dube,Zach Tuman,CAE East,Ramped,100k ,0k ,16k ,26k ,100k ,0k ,63k ,16k ,11k ,0k ,60%,0k ,0%,5,0,2,1,5,0,3,1,2,0,60%,0,0%
+005PC00000oqyEbYAI,NAMER,Khalil Mujadedi,Justin Dube,Chauncey Shoesmith,CAE East,Ramped,167k ,8k ,0k ,0k ,167k ,0k ,8k ,8k ,0k ,0k ,33%,159k ,0%,3,1,0,0,3,0,1,1,0,0,33%,2,0%
+005PC00000fatmLYAQ,NAMER,Khalil Mujadedi,Justin Dube,Jim Tesorero,CAE East,Ramped,44k ,0k ,0k ,43k ,23k ,21k ,42k ,22k ,2k ,0k ,40%,0k ,0%,5,0,0,2,1,4,2,1,1,0,40%,0,0%
+005PC00000HfEtFYAV,NAMER,Khalil Mujadedi,Justin Dube,Zach Tuman,CAE East,Ramped,131k ,0k ,11k ,26k ,131k ,0k ,57k ,10k ,11k ,0k ,50%,0k ,0%,6,0,2,1,6,0,3,1,2,0,50%,0,0%
 0056R00000E6m74QAB,NAMER,Khalil Mujadedi,Justin Dube,Holli Martinez,CAE East,Ramped,275k ,0k ,269k ,0k ,213k ,62k ,206k ,64k ,47k ,0k ,67%,0k ,0%,6,0,5,0,4,2,4,2,2,0,67%,0,0%
 0056R00000E6lBAQAZ,NAMER,Khalil Mujadedi,Justin Dube,Ryan McIntosh,CAE East,Ramped,123k ,10k ,38k ,0k ,123k ,0k ,57k ,0k ,20k ,19k ,50%,75k ,0%,4,2,1,0,4,0,2,0,1,1,50%,1,0%
 005PC00000nlRzpYAE,NAMER,Michelle Roos,Kale Tunnessen,Sam Nichols,CAE West,Ramped,109k ,2k ,79k ,27k ,66k ,43k ,29k ,1k ,0k ,28k ,43%,0k ,0%,7,1,4,2,2,5,3,1,0,3,43%,0,0%
 005PC00000wvja5YAA,NAMER,Michelle Roos,Kale Tunnessen,Seth Gnader,CAE West,Unramped,93k ,0k ,89k ,3k ,89k ,3k ,91k ,30k ,0k ,27k ,67%,0k ,0%,3,0,1,2,1,2,2,1,0,2,67%,0,0%
 005PC00000jvdQvYAI,NAMER,Michelle Roos,Kale Tunnessen,Rodney Patrocinio,CAE West,Ramped,182k ,89k ,91k ,2k ,180k ,2k ,139k ,55k ,0k ,84k ,83%,0k ,0%,6,2,3,1,5,1,5,4,0,3,83%,0,0%
-005PC00000ktixCYAQ,NAMER,Michelle Roos,Kale Tunnessen,Brenda Negreros,CAE West,Ramped,48k ,0k ,27k ,0k ,27k ,20k ,20k ,19k ,0k ,1k ,38%,0k ,0%,8,0,3,0,3,5,3,3,0,1,38%,0,0%
+005PC00000ktixCYAQ,NAMER,Michelle Roos,Kale Tunnessen,Brenda Negreros,CAE West,Ramped,43k ,0k ,18k ,9k ,24k ,19k ,20k ,19k ,0k ,1k ,50%,0k ,0%,6,0,2,1,2,4,3,3,0,1,50%,0,0%
 005PC00000kGajNYAS,NAMER,Michelle Roos,Kale Tunnessen,Chad Lanfer,CAE West,Ramped,102k ,13k ,41k ,48k ,102k ,0k ,89k ,41k ,30k ,0k ,67%,0k ,0%,3,1,1,1,3,0,2,1,1,0,67%,0,0%
-005PC00000qFlLdYAK,NAMER,Michelle Roos,Kale Tunnessen,Kaitlyn Shields,CAE West,Unramped,245k ,21k ,224k ,0k ,245k ,0k ,212k ,26k ,177k ,0k ,43%,0k ,0%,7,2,4,1,6,1,3,1,2,0,43%,0,0%
-005PC00000i27wvYAA,NAMER,Michelle Roos,Kale Tunnessen,Jack King,CAE West,Ramped,111k ,5k ,106k ,0k ,27k ,84k ,68k ,22k ,15k ,22k ,60%,0k ,0%,5,1,4,0,2,3,3,2,1,1,60%,0,0%
-005PC00000wmF8DYAU,APAC,Sean Woodward,Kevin Wood,Alex Brown,ANZ,Unramped,36k ,8k ,20k ,8k ,20k ,16k ,21k ,10k ,2k ,0k ,50%,16k ,50%,6,2,3,1,3,3,3,2,1,0,50%,2,50%
+005PC00000qFlLdYAK,NAMER,Michelle Roos,Kale Tunnessen,Kaitlyn Shields,CAE West,Unramped,266k ,21k ,224k ,0k ,245k ,21k ,217k ,31k ,177k ,0k ,50%,0k ,0%,8,2,4,1,6,2,4,2,2,0,50%,0,0%
+005PC00000i27wvYAA,NAMER,Michelle Roos,Kale Tunnessen,Jack King,CAE West,Ramped,111k ,5k ,106k ,0k ,27k ,84k ,68k ,22k ,15k ,22k ,50%,0k ,0%,6,1,4,0,2,4,3,2,1,1,50%,0,0%
+005PC00000wmF8DYAU,APAC,Sean Woodward,Kevin Wood,Alex Brown,ANZ,Unramped,47k ,8k ,20k ,8k ,20k ,27k ,21k ,10k ,2k ,0k ,43%,16k ,50%,7,2,3,1,3,4,3,2,1,0,43%,2,50%
 005PC00000QtCCrYAN,APAC,Sean Woodward,Kevin Wood,Martin Rusnak,ANZ,Ramped,192k ,18k ,110k ,53k ,120k ,72k ,175k ,71k ,30k ,21k ,100%,0k ,0%,7,1,3,2,4,3,7,4,3,3,100%,0,0%
-005PC00000nlhDNYAY,APAC,Sean Woodward,Kevin Wood,Isabella Harré,ANZ,Unramped,224k ,0k ,19k ,182k ,138k ,86k ,150k ,61k ,35k ,25k ,75%,177k ,80%,8,0,1,6,3,5,6,6,1,3,75%,5,80%
+005PC00000nlhDNYAY,APAC,Sean Woodward,Kevin Wood,Isabella Harré,ANZ,Unramped,204k ,0k ,19k ,162k ,138k ,67k ,130k ,45k ,35k ,22k ,50%,177k ,80%,10,0,1,5,4,6,5,5,1,2,50%,5,80%
 005PC00000uJwEXYA0,APAC,Sean Woodward,Kevin Wood,Lucas Brzeski,ANZ,Ramped,100k ,53k ,39k ,8k ,73k ,26k ,32k ,32k ,0k ,0k ,43%,0k ,0%,7,3,3,1,5,2,3,3,0,0,43%,0,0%
-0056R00000E6lIQQAZ,APAC,Sean Woodward,Kevin Wood,Jason Pan,ANZ,Unramped,243k ,8k ,181k ,55k ,160k ,83k ,117k ,29k ,43k ,17k ,50%,200k ,40%,12,2,3,7,2,10,6,3,2,3,50%,5,40%
+0056R00000E6lIQQAZ,APAC,Sean Woodward,Kevin Wood,Jason Pan,ANZ,Unramped,244k ,8k ,181k ,50k ,181k ,63k ,113k ,29k ,43k ,13k ,42%,200k ,40%,12,2,3,6,4,8,5,3,2,2,42%,5,40%
 005PC00000yT8m1YAC,APAC,Sean Woodward,Kevin Wood,Ry Elphinstone,ANZ,Unramped,0k ,0k ,0k ,0k ,0k ,0k ,0k ,0k ,0k ,0k ,0%,0k ,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%
 005PC00000vxrAjYAI,APAC,Sean Woodward,Kevin Wood,Tim Amassah,ANZ,Ramped,183k ,7k ,80k ,95k ,83k ,100k ,129k ,23k ,76k ,0k ,67%,90k ,100%,9,2,3,3,5,4,6,5,2,0,67%,3,100%
-005PC00000eJdBVYA0,NAMER,Mark Hochman,Austin Leighton,Ben Sisler,NAE Central,Ramped,30k ,0k ,0k ,30k ,30k ,0k ,11k ,9k ,2k ,0k ,100%,30k ,100%,2,0,0,2,2,0,2,2,1,0,100%,2,100%
+005PC00000eJdBVYA0,NAMER,Mark Hochman,Austin Leighton,Ben Sisler,NAE Central,Ramped,6k ,0k ,0k ,6k ,6k ,0k ,11k ,9k ,2k ,0k ,100%,6k ,100%,2,0,0,2,2,0,2,2,1,0,100%,2,100%
 0056R00000D9xn8QAB,NAMER,Mark Hochman,Austin Leighton,Danielle Lin,NAE Central,Ramped,105k ,0k ,0k ,0k ,105k ,0k ,19k ,19k ,0k ,0k ,100%,105k ,100%,1,0,0,0,1,0,1,1,0,0,100%,1,100%
 005PC00000wssQDYAY,NAMER,Mark Hochman,Austin Leighton,Noe Garcia,NAE Central,Unramped,22k ,6k ,0k ,16k ,0k ,22k ,4k ,4k ,0k ,0k ,50%,22k ,50%,2,1,0,1,0,2,1,1,1,0,50%,2,50%
 005PC00000wsMoXYAU,NAMER,Mark Hochman,Austin Leighton,Tyler Solis,NAE Central,Unramped,1k ,0k ,0k ,1k ,0k ,1k ,0k ,0k ,0k ,0k ,0%,0k ,0%,1,0,0,1,0,1,0,0,0,0,0%,0,0%
 005PC00000i28BRYAY,NAMER,Mark Hochman,Austin Leighton,Jason Taylor,NAE Central,Ramped,102k ,0k ,102k ,0k ,102k ,0k ,39k ,39k ,0k ,0k ,50%,102k ,50%,2,0,2,0,2,0,1,1,0,0,50%,2,50%
-005PC00000s0eeHYAQ,NAMER,Mark Hochman,Austin Leighton,Michael Harrington,NAE Central,Unramped,59k ,0k ,9k ,49k ,49k ,9k ,26k ,21k ,5k ,0k ,100%,59k ,100%,2,0,1,1,1,1,2,2,2,0,100%,2,100%
+005PC00000s0eeHYAQ,NAMER,Mark Hochman,Austin Leighton,Michael Harrington,NAE Central,Unramped,57k ,0k ,8k ,49k ,49k ,8k ,26k ,21k ,5k ,0k ,100%,57k ,100%,2,0,1,1,1,1,2,2,2,0,100%,2,100%
 005PC00000oqyGDYAY,NAMER,Mark Hochman,Austin Leighton,Gerard Shillow,NAE Central,Ramped,0k ,0k ,0k ,0k ,0k ,0k ,0k ,0k ,0k ,0k ,0%,0k ,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%
-005PC00000uzqXhYAI,NAMER,Mark Hochman,Austin Leighton,Jeremy Pelton,NAE Central,Ramped,0k ,0k ,0k ,0k ,0k ,0k ,0k ,0k ,0k ,0k ,0%,0k ,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%
+005PC00000uzqXhYAI,NAMER,Mark Hochman,Austin Leighton,Jeremy Pelton,NAE Central,Ramped,3k ,0k ,0k ,3k ,0k ,3k ,0k ,0k ,0k ,0k ,0%,0k ,0%,1,0,0,1,0,1,0,0,0,0,0%,0,0%
 005PC00000qFilxYAC,NAMER,Mark Hochman,Austin Leighton,Pierce Lundt,NAE Central,Ramped,267k ,153k ,32k ,81k ,188k ,79k ,125k ,67k ,0k ,58k ,40%,267k ,40%,5,1,2,2,4,1,2,2,0,1,40%,5,40%
-0056R00000Ay3GcQAJ,NAMER,Mark Hochman,Austin Leighton,Spencer Van Deurzen,NAE Central,Ramped,194k ,0k ,52k ,142k ,144k ,50k ,51k ,51k ,0k ,0k ,80%,194k ,80%,5,0,2,3,4,1,4,4,0,0,80%,5,80%
-005PC00000kf5AwYAI,NAMER,Khalil Mujadedi,Maria Saravia,Betsy Connelly,CAE East,Ramped,114k ,0k ,28k ,86k ,114k ,0k ,132k ,13k ,65k ,0k ,71%,0k ,0%,7,0,2,5,5,2,5,2,3,0,71%,0,0%
-005PC00000TdK6DYAV,NAMER,Khalil Mujadedi,Maria Saravia,Hunter Brandon,CAE East,Ramped,182k ,87k ,86k ,9k ,178k ,5k ,171k ,4k ,153k ,0k ,50%,0k ,0%,6,1,2,3,4,2,3,1,2,0,50%,0,0%
-0056R00000Ay6TAQAZ,NAMER,Khalil Mujadedi,Maria Saravia,Tim Boruff,CAE East,Ramped,128k ,0k ,0k ,128k ,99k ,29k ,107k ,66k ,5k ,0k ,67%,0k ,0%,9,0,0,7,6,3,6,4,1,0,67%,0,0%
+0056R00000Ay3GcQAJ,NAMER,Mark Hochman,Austin Leighton,Spencer Van Deurzen,NAE Central,Ramped,186k ,0k ,44k ,142k ,186k ,0k ,53k ,53k ,0k ,0k ,80%,186k ,80%,5,0,2,3,5,0,4,4,0,0,80%,5,80%
+005PC00000kf5AwYAI,NAMER,Khalil Mujadedi,Maria Saravia,Betsy Connelly,CAE East,Ramped,104k ,0k ,18k ,86k ,104k ,0k ,129k ,10k ,65k ,0k ,67%,0k ,0%,6,0,1,5,4,2,4,1,3,0,67%,0,0%
+005PC00000TdK6DYAV,NAMER,Khalil Mujadedi,Maria Saravia,Hunter Brandon,CAE East,Ramped,232k ,87k ,137k ,9k ,228k ,4k ,171k ,4k ,153k ,0k ,38%,0k ,0%,8,1,3,3,5,3,3,1,2,0,38%,0,0%
+0056R00000Ay6TAQAZ,NAMER,Khalil Mujadedi,Maria Saravia,Tim Boruff,CAE East,Ramped,173k ,0k ,25k ,128k ,125k ,48k ,114k ,71k ,5k ,3k ,70%,0k ,0%,10,0,1,7,7,3,7,5,1,1,70%,0,0%
 005PC00000OuqHRYAZ,NAMER,Khalil Mujadedi,Maria Saravia,Dan Pape,CAE East,Ramped,72k ,0k ,11k ,61k ,35k ,37k ,52k ,34k ,0k ,0k ,67%,0k ,0%,6,0,2,4,4,2,4,3,0,0,67%,0,0%
-0056R00000E6lARQAZ,NAMER,Khalil Mujadedi,Maria Saravia,Alexander Anderson,CAE East,Ramped,217k ,98k ,60k ,59k ,132k ,84k ,103k ,67k ,0k ,0k ,70%,0k ,0%,10,3,3,4,6,4,7,6,0,0,70%,0,0%
+0056R00000E6lARQAZ,NAMER,Khalil Mujadedi,Maria Saravia,Alexander Anderson,CAE East,Ramped,169k ,61k ,60k ,48k ,146k ,23k ,94k ,58k ,0k ,0k ,67%,0k ,0%,9,3,3,3,7,2,6,5,0,0,67%,0,0%
 0056R00000E6h2TQAR,NAMER,Khalil Mujadedi,Maria Saravia,Lizzy Cruikshank,CAE East,Ramped,49k ,0k ,11k ,38k ,19k ,31k ,16k ,16k ,0k ,0k ,43%,0k ,0%,7,0,1,6,3,4,3,3,0,0,43%,0,0%
-005PC00000wvjqDYAQ,NAMER,Khalil Mujadedi,Mickey DeFilippo,Steven Novak JR,CAE East,Unramped,70k ,0k ,0k ,70k ,70k ,0k ,70k ,70k ,0k ,0k ,60%,0k ,0%,5,0,0,3,4,1,3,3,0,0,60%,0,0%
+005PC00000wvjqDYAQ,NAMER,Khalil Mujadedi,Mickey DeFilippo,Steven Novak JR,CAE East,Unramped,70k ,0k ,0k ,70k ,70k ,0k ,70k ,70k ,0k ,0k ,75%,0k ,0%,4,0,0,3,4,0,3,3,0,0,75%,0,0%
 005PC00000i284zYAA,NAMER,Khalil Mujadedi,Mickey DeFilippo,Brandon Perkins,CAE East,Ramped,130k ,0k ,86k ,44k ,108k ,21k ,46k ,12k ,0k ,0k ,50%,0k ,0%,6,0,3,3,3,3,3,1,0,0,50%,0,0%
 0056R00000E6lAqQAJ,NAMER,Khalil Mujadedi,Mickey DeFilippo,Rashmi Aggarwal,CAE East,Ramped,187k ,2k ,95k ,0k ,101k ,87k ,84k ,12k ,60k ,12k ,33%,0k ,0%,6,1,3,0,5,1,2,1,1,1,33%,0,0%
-005PC00000or1E5YAI,NAMER,Khalil Mujadedi,Mickey DeFilippo,Justin Ellis,CAE East,Ramped,164k ,0k ,40k ,124k ,85k ,79k ,168k ,58k ,50k ,0k ,71%,0k ,0%,7,0,2,5,2,5,5,5,1,0,71%,0,0%
-0056R00000E6lAlQAJ,NAMER,Khalil Mujadedi,Mickey DeFilippo,Kodee Williams,CAE East,Ramped,298k ,19k ,254k ,22k ,48k ,251k ,236k ,149k ,0k ,88k ,60%,0k ,0%,10,2,3,2,5,5,6,5,0,2,60%,0,0%
-005PC00000v1uIfYAI,NAMER,Khalil Mujadedi,Mickey DeFilippo,Miranda Aguirre,CAE East,Unramped,130k ,0k ,125k ,5k ,124k ,6k ,46k ,0k ,31k ,6k ,60%,0k ,0%,5,0,4,1,3,2,3,0,2,1,60%,0,0%
-005PC00000jinRJYAY,APAC,Sean Woodward,Mitsuhiro Wakaiki,Fuminori Goto,Japan,Unramped,92k ,48k ,18k ,27k ,48k ,45k ,68k ,9k ,0k ,7k ,60%,40k ,100%,5,2,1,2,2,3,3,2,0,1,60%,1,100%
+005PC00000or1E5YAI,NAMER,Khalil Mujadedi,Mickey DeFilippo,Justin Ellis,CAE East,Ramped,173k ,0k ,61k ,111k ,73k ,100k ,131k ,58k ,15k ,0k ,63%,0k ,0%,8,0,3,5,2,6,5,5,1,0,63%,0,0%
+0056R00000E6lAlQAJ,NAMER,Khalil Mujadedi,Mickey DeFilippo,Kodee Williams,CAE East,Ramped,272k ,19k ,228k ,22k ,21k ,251k ,210k ,122k ,0k ,88k ,63%,0k ,0%,8,2,2,2,3,5,5,4,0,2,63%,0,0%
+005PC00000v1uIfYAI,NAMER,Khalil Mujadedi,Mickey DeFilippo,Miranda Aguirre,CAE East,Unramped,133k ,0k ,128k ,5k ,127k ,6k ,46k ,0k ,31k ,6k ,60%,0k ,0%,5,0,4,1,3,2,3,0,2,1,60%,0,0%
+005PC00000jinRJYAY,APAC,Sean Woodward,Mitsuhiro Wakaiki,Fuminori Goto,Japan,Unramped,85k ,40k ,18k ,27k ,40k ,45k ,68k ,9k ,0k ,7k ,75%,40k ,100%,4,1,1,2,1,3,3,2,0,1,75%,1,100%
 005PC00000vxrHBYAY,APAC,Sean Woodward,Mitsuhiro Wakaiki,Naoki Ohara,Japan,Ramped,49k ,0k ,20k ,29k ,28k ,21k ,35k ,11k ,6k ,0k ,100%,8k ,100%,3,0,1,2,2,1,3,3,1,0,100%,1,100%
-005PC00000w6a5pYAA,APAC,Sean Woodward,Mitsuhiro Wakaiki,Kohei Yamashita,Japan,Ramped,131k ,44k ,68k ,14k ,96k ,34k ,57k ,44k ,13k ,0k ,75%,108k ,75%,12,5,3,3,6,6,9,9,2,0,75%,8,75%
+005PC00000w6a5pYAA,APAC,Sean Woodward,Mitsuhiro Wakaiki,Kohei Yamashita,Japan,Ramped,119k ,44k ,57k ,14k ,85k ,34k ,50k ,37k ,13k ,0k ,83%,97k ,75%,12,5,3,3,6,6,10,10,2,0,83%,8,75%
 005PC00000jvdNhYAI,APAC,Sean Woodward,Mitsuhiro Wakaiki,Takahiro Kozuma,Japan,Unramped,7k ,0k ,0k ,7k ,0k ,7k ,0k ,0k ,0k ,0k ,0%,0k ,0%,1,0,0,1,0,1,0,0,0,0,0%,0,0%
-005PC00000u7a6XYAQ,APAC,Sean Woodward,Mitsuhiro Wakaiki,Shunsuke Nagumo,Japan,Ramped,110k ,12k ,99k ,0k ,81k ,30k ,27k ,27k ,0k ,0k ,60%,109k ,100%,5,2,2,0,2,3,3,3,0,0,60%,3,100%
+005PC00000u7a6XYAQ,APAC,Sean Woodward,Mitsuhiro Wakaiki,Shunsuke Nagumo,Japan,Ramped,110k ,2k ,99k ,10k ,81k ,30k ,27k ,27k ,0k ,0k ,75%,109k ,100%,4,1,2,1,2,2,3,3,0,0,75%,3,100%
 005PC00000l6DU9YAM,EMEA,Keith Claffey,Ollie McAree,Benjamin Michelsen,NDE,Ramped,0k ,0k ,0k ,0k ,0k ,0k ,0k ,0k ,0k ,0k ,0%,0k ,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%
 005PC00000xMkWrYAK,EMEA,Keith Claffey,Ollie McAree,Izzy McPoland,NDE,Unramped,0k ,0k ,0k ,0k ,0k ,0k ,0k ,0k ,0k ,0k ,0%,0k ,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%
 005PC00000nljtVYAQ,EMEA,Keith Claffey,Ollie McAree,Leah Sørensen,NDE,Ramped,76k ,0k ,76k ,0k ,76k ,0k ,36k ,25k ,11k ,0k ,100%,0k ,0%,3,0,3,0,3,0,3,2,1,0,100%,0,0%
 005PC00000x60GHYAY,EMEA,Keith Claffey,Ollie McAree,Mikkel Freno,NDE,Unramped,1k ,1k ,0k ,0k ,1k ,0k ,5k ,5k ,0k ,0k ,100%,0k ,0%,1,1,0,0,1,0,1,1,0,0,100%,0,0%
 0056R00000AvD2FQAV,EMEA,Keith Claffey,Ollie McAree,Sophie Glennon,NDE,Ramped,65k ,30k ,25k ,0k ,55k ,10k ,23k ,23k ,0k ,0k ,75%,17k ,100%,4,1,2,0,3,1,3,3,0,0,75%,1,100%
 0056R00000AL0P8QAL,EMEA,Keith Claffey,Ollie McAree,Cameron Diamond,NDE,Ramped,9k ,0k ,0k ,9k ,0k ,9k ,0k ,0k ,0k ,0k ,0%,9k ,0%,1,0,0,1,0,1,0,0,0,0,0%,1,0%
-0056R00000D8AuhQAF,LATAM,Alan Schulte,Rafael Mussato,Ana Carolina Fantini Gobbi,Brazil,Ramped,130k ,0k ,130k ,0k ,84k ,46k ,18k ,18k ,0k ,0k ,17%,30k ,0%,6,0,6,0,3,3,1,1,0,0,17%,3,0%
+0056R00000D8AuhQAF,LATAM,Alan Schulte,Rafael Mussato,Ana Carolina Fantini Gobbi,Brazil,Ramped,130k ,13k ,116k ,0k ,84k ,46k ,18k ,18k ,0k ,0k ,17%,30k ,0%,6,2,4,0,3,3,1,1,0,0,17%,3,0%
 005PC00000vODT7YAO,LATAM,Alan Schulte,Rafael Mussato,Lucas Angrisani,Brazil,Ramped,192k ,49k ,29k ,114k ,57k ,135k ,122k ,54k ,47k ,21k ,80%,176k ,56%,10,1,4,5,2,8,8,6,5,4,80%,9,56%
-005PC00000vJeaPYAS,LATAM,Alan Schulte,Rafael Mussato,Fernanda Ferrara,Brazil,Ramped,277k ,70k ,116k ,35k ,179k ,97k ,151k ,29k ,62k ,58k ,67%,131k ,60%,12,3,5,2,8,4,8,4,4,5,67%,5,60%
+005PC00000vJeaPYAS,LATAM,Alan Schulte,Rafael Mussato,Fernanda Ferrara,Brazil,Ramped,278k ,71k ,116k ,35k ,181k ,97k ,152k ,30k ,62k ,58k ,67%,133k ,60%,12,3,5,2,8,4,8,4,4,5,67%,5,60%
 005PC00000eJdjNYAS,LATAM,Alan Schulte,Rafael Mussato,Suzane Araujo,Brazil,Unramped,0k ,0k ,0k ,0k ,0k ,0k ,0k ,0k ,0k ,0k ,0%,0k ,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%
-005PC00000S0V6vYAF,LATAM,Alan Schulte,Rafael Mussato,Zehr Hamia,Brazil,Ramped,127k ,0k ,27k ,65k ,70k ,57k ,71k ,55k ,16k ,0k ,63%,51k ,80%,8,0,3,3,5,3,5,5,3,0,63%,5,80%
-005PC00000yONNVYA4,LATAM,Alan Schulte,Rafael Mussato,Nathan Baltor,Brazil,Unramped,234k ,0k ,131k ,103k ,164k ,71k ,73k ,12k ,61k ,0k ,50%,164k ,50%,8,0,5,3,6,2,4,3,3,0,50%,6,50%
+005PC00000S0V6vYAF,LATAM,Alan Schulte,Rafael Mussato,Zehr Hamia,Brazil,Ramped,62k ,0k ,27k ,0k ,62k ,0k ,24k ,17k ,8k ,0k ,40%,27k ,67%,5,0,3,0,5,0,2,2,1,0,40%,3,67%
+005PC00000yONNVYA4,LATAM,Alan Schulte,Rafael Mussato,Nathan Baltor,Brazil,Unramped,234k ,0k ,180k ,54k ,164k ,71k ,73k ,12k ,61k ,0k ,50%,164k ,50%,8,0,6,2,6,2,4,3,3,0,50%,6,50%
 005PC00000vJcLjYAK,LATAM,Alan Schulte,Rafael Mussato,Júlia Cruz,Brazil,Ramped,317k ,109k ,121k ,27k ,293k ,25k ,162k ,62k ,97k ,3k ,60%,203k ,60%,10,3,4,2,7,3,6,4,4,1,60%,5,60%
 005PC00000W9hRVYAZ,LATAM,Alan Schulte,Rafael Mussato,Gabriela Galan,Brazil,Ramped,153k ,4k ,25k ,124k ,17k ,137k ,117k ,35k ,82k ,0k ,92%,100k ,75%,12,2,3,6,5,7,11,7,10,0,92%,4,75%
-0051E00000DwmcBQAR,EMEA,Gavin Walsh,Richard Moloney,Adam White,UKI,Ramped,18k ,0k ,0k ,18k ,0k ,18k ,13k ,0k ,3k ,0k ,50%,0k ,0%,2,0,0,2,0,2,1,0,1,0,50%,0,0%
-0056R00000E6lBoQAJ,EMEA,Gavin Walsh,Richard Moloney,Sinead Pugh,UKI,Ramped,159k ,0k ,159k ,0k ,159k ,0k ,106k ,70k ,4k ,0k ,100%,65k ,100%,4,0,4,0,4,0,4,4,1,0,100%,2,100%
-005PC00000sqrdqYAA,EMEA,Gavin Walsh,Richard Moloney,Leo Bailby,UKI,Ramped,144k ,0k ,97k ,47k ,79k ,66k ,76k ,40k ,9k ,18k ,67%,90k ,67%,6,0,3,3,3,3,4,3,1,1,67%,3,67%
-005PC00000wdCkgYAE,EMEA,Gavin Walsh,Richard Moloney,Gary Brennan,UKI,Unramped,138k ,0k ,108k ,29k ,121k ,17k ,184k ,68k ,32k ,84k ,83%,0k ,0%,6,0,4,2,5,1,5,3,2,3,83%,0,0%
+0051E00000DwmcBQAR,EMEA,Gavin Walsh,Richard Moloney,Adam White,UKI,Ramped,17k ,0k ,13k ,4k ,13k ,4k ,13k ,0k ,3k ,0k ,50%,0k ,0%,2,0,1,1,1,1,1,0,1,0,50%,0,0%
+0056R00000E6lBoQAJ,EMEA,Gavin Walsh,Richard Moloney,Sinead Pugh,UKI,Ramped,270k ,0k ,270k ,0k ,270k ,0k ,106k ,70k ,4k ,0k ,100%,176k ,100%,4,0,4,0,4,0,4,4,1,0,100%,2,100%
+005PC00000sqrdqYAA,EMEA,Gavin Walsh,Richard Moloney,Leo Bailby,UKI,Ramped,97k ,0k ,97k ,0k ,32k ,66k ,37k ,10k ,9k ,18k ,50%,43k ,50%,4,0,3,1,1,3,2,1,1,1,50%,2,50%
+005PC00000wdCkgYAE,EMEA,Gavin Walsh,Richard Moloney,Gary Brennan,UKI,Unramped,138k ,71k ,38k ,29k ,121k ,17k ,184k ,68k ,32k ,84k ,83%,0k ,0%,6,1,3,2,5,1,5,3,2,3,83%,0,0%
 005PC00000uI1VFYA0,EMEA,Gavin Walsh,Richard Moloney,Madalena Scott,UKI,Ramped,167k ,30k ,28k ,108k ,167k ,0k ,87k ,50k ,0k ,22k ,44%,30k ,100%,9,1,2,6,9,0,4,4,0,1,44%,1,100%
-005PC00000keWQ5YAM,EMEA,Gavin Walsh,Richard Moloney,Rob Kelly,UKI,Ramped,47k ,44k ,0k ,3k ,44k ,3k ,23k ,23k ,0k ,0k ,60%,1k ,0%,5,4,0,1,4,1,3,3,0,0,60%,1,0%
-005PC00000OdXW9YAN,EMEA,Gavin Walsh,Ronan O'Neill,Brian Nugent,UKI,Ramped,63k ,0k ,56k ,0k ,56k ,7k ,56k ,35k ,0k ,0k ,50%,0k ,0%,2,0,1,0,1,1,1,1,0,0,50%,0,0%
-005PC00000ktldJYAQ,EMEA,Gavin Walsh,Ronan O'Neill,Easa Nourouzee,UKI,Ramped,110k ,70k ,17k ,0k ,110k ,0k ,99k ,46k ,26k ,11k ,67%,17k ,0%,3,1,1,0,3,0,2,2,1,1,67%,1,0%
-005PC00000HhvMDYAZ,EMEA,Gavin Walsh,Ronan O'Neill,Ryan Miller,UKI,Ramped,86k ,0k ,66k ,20k ,44k ,42k ,38k ,6k ,29k ,3k ,75%,24k ,0%,4,0,3,1,2,2,3,1,2,1,75%,1,0%
-0051E00000FjgbbQAB,EMEA,Gavin Walsh,Ronan O'Neill,Alex Begley,UKI,Unramped,278k ,179k ,77k ,0k ,257k ,21k ,264k ,25k ,148k ,11k ,100%,21k ,100%,5,1,3,0,4,1,5,2,1,1,100%,1,100%
-005PC00000OdK7WYAV,EMEA,Gavin Walsh,Ronan O'Neill,Michael O'Brien,UKI,Ramped,198k ,21k ,176k ,0k ,198k ,0k ,93k ,54k ,9k ,9k ,80%,79k ,100%,5,2,3,0,5,0,4,4,1,1,80%,1,100%
-005PC00000m5ZSvYAM,EMEA,Gavin Walsh,Ronan O'Neill,Ricky Giuliani,UKI,Ramped,53k ,25k ,2k ,26k ,48k ,5k ,44k ,42k ,0k ,3k ,67%,8k ,0%,6,3,1,2,4,2,4,3,0,1,67%,1,0%
-0051E00000Gs0Z8QAJ,EMEA,Mathieu Bourreau,Rosa Pham,Evelin Duenas,South,Ramped,89k ,9k ,0k ,78k ,32k ,57k ,57k ,7k ,18k ,0k ,60%,40k ,50%,5,1,0,3,2,3,3,1,2,0,60%,2,50%
+005PC00000keWQ5YAM,EMEA,Gavin Walsh,Richard Moloney,Rob Kelly,UKI,Ramped,21k ,18k ,0k ,3k ,18k ,3k ,17k ,17k ,0k ,0k ,50%,1k ,0%,4,3,0,1,3,1,2,2,0,0,50%,1,0%
+005PC00000OdXW9YAN,EMEA,Gavin Walsh,Ronan O'Neill,Brian Nugent,UKI,Ramped,63k ,0k ,56k ,7k ,56k ,7k ,56k ,35k ,0k ,0k ,50%,0k ,0%,2,0,1,1,1,1,1,1,0,0,50%,0,0%
+005PC00000ktldJYAQ,EMEA,Gavin Walsh,Ronan O'Neill,Easa Nourouzee,UKI,Ramped,92k ,92k ,0k ,0k ,92k ,0k ,99k ,46k ,26k ,11k ,100%,0k ,0%,2,2,0,0,2,0,2,2,1,1,100%,0,0%
+005PC00000HhvMDYAZ,EMEA,Gavin Walsh,Ronan O'Neill,Ryan Miller,UKI,Ramped,86k ,0k ,66k ,20k ,56k ,29k ,38k ,6k ,29k ,3k ,75%,24k ,0%,4,0,3,1,3,1,3,1,2,1,75%,1,0%
+0051E00000FjgbbQAB,EMEA,Gavin Walsh,Ronan O'Neill,Alex Begley,UKI,Unramped,267k ,189k ,77k ,0k ,246k ,21k ,259k ,20k ,148k ,11k ,100%,10k ,100%,5,2,3,0,4,1,5,2,1,1,100%,1,100%
+005PC00000OdK7WYAV,EMEA,Gavin Walsh,Ronan O'Neill,Michael O'Brien,UKI,Ramped,186k ,2k ,146k ,38k ,186k ,0k ,93k ,54k ,9k ,9k ,80%,62k ,100%,5,1,3,1,5,0,4,4,1,1,80%,1,100%
+005PC00000m5ZSvYAM,EMEA,Gavin Walsh,Ronan O'Neill,Ricky Giuliani,UKI,Ramped,50k ,25k ,0k ,26k ,48k ,3k ,44k ,42k ,0k ,3k ,80%,8k ,0%,5,3,0,2,4,1,4,3,0,1,80%,1,0%
+0051E00000Gs0Z8QAJ,EMEA,Mathieu Bourreau,Rosa Pham,Evelin Duenas,South,Ramped,89k ,9k ,0k ,78k ,32k ,57k ,57k ,7k ,18k ,0k ,43%,40k ,50%,7,1,0,3,3,4,3,1,2,0,43%,2,50%
 0056R00000C10sdQAB,EMEA,Mathieu Bourreau,Rosa Pham,Nicolas Campoy,South,Ramped,0k ,0k ,0k ,0k ,0k ,0k ,0k ,0k ,0k ,0k ,0%,0k ,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%
-005PC00000jy71VYAQ,EMEA,Mathieu Bourreau,Rosa Pham,Rutger Bos,South,Ramped,82k ,0k ,27k ,55k ,12k ,70k ,52k ,52k ,0k ,0k ,80%,43k ,100%,5,0,1,3,1,4,4,4,0,0,80%,2,100%
-0056R00000ALB2iQAH,EMEA,Mathieu Bourreau,Rosa Pham,Chiara Calì,South,Ramped,94k ,11k ,22k ,61k ,33k ,61k ,33k ,33k ,0k ,0k ,50%,58k ,60%,8,1,3,4,4,4,4,4,0,0,50%,5,60%
-005PC00000xMkLZYA0,EMEA,Mathieu Bourreau,Rosa Pham,Victor Cuevas,South,Unramped,28k ,0k ,17k ,12k ,17k ,12k ,17k ,17k ,0k ,0k ,67%,0k ,0%,3,0,2,1,2,1,2,2,0,0,67%,0,0%
-005PC00000OngY9YAJ,EMEA,Mathieu Bourreau,Rosa Pham,Tony Hulsenboom,South,Unramped,79k ,6k ,53k ,9k ,69k ,10k ,68k ,15k ,15k ,21k ,78%,21k ,67%,9,1,5,1,8,1,7,4,1,2,78%,3,67%
-0056R00000E6lCDQAZ,EMEA,Mathieu Bourreau,Rosa Pham,Job de Boer,South,Ramped,101k ,31k ,70k ,0k ,101k ,0k ,10k ,8k ,0k ,2k ,75%,81k ,50%,4,3,1,0,4,0,3,3,0,1,75%,2,50%
+005PC00000jy71VYAQ,EMEA,Mathieu Bourreau,Rosa Pham,Rutger Bos,South,Ramped,82k ,0k ,42k ,39k ,12k ,70k ,43k ,43k ,0k ,0k ,75%,43k ,50%,4,0,2,2,1,3,3,3,0,0,75%,2,50%
+0056R00000ALB2iQAH,EMEA,Mathieu Bourreau,Rosa Pham,Chiara Calì,South,Ramped,89k ,21k ,12k ,56k ,33k ,56k ,33k ,33k ,0k ,0k ,57%,53k ,75%,7,2,2,3,4,3,4,4,0,0,57%,4,75%
+005PC00000xMkLZYA0,EMEA,Mathieu Bourreau,Rosa Pham,Victor Cuevas,South,Unramped,52k ,0k ,17k ,12k ,17k ,36k ,59k ,17k ,0k ,0k ,75%,0k ,0%,4,0,2,1,2,2,3,2,0,0,75%,0,0%
+005PC00000OngY9YAJ,EMEA,Mathieu Bourreau,Rosa Pham,Tony Hulsenboom,South,Unramped,61k ,0k ,61k ,0k ,61k ,0k ,50k ,9k ,15k ,9k ,57%,9k ,100%,7,0,5,0,7,0,4,2,1,1,57%,1,100%
+0056R00000E6lCDQAZ,EMEA,Mathieu Bourreau,Rosa Pham,Job de Boer,South,Ramped,84k ,5k ,79k ,0k ,84k ,0k ,6k ,6k ,0k ,0k ,67%,75k ,50%,3,1,2,0,3,0,2,2,0,0,67%,2,50%
 005PC00000tccvpYAA,EMEA,Mathieu Bourreau,Rosa Pham,Thomas Stor,South,Ramped,60k ,3k ,57k ,0k ,57k ,3k ,113k ,30k ,38k ,31k ,100%,0k ,0%,2,1,1,0,1,1,2,2,1,1,100%,0,0%
 005PC00000OdZWLYA3,EMEA,Gavin Walsh,Suzanne Hart,Calum Kennedy,UKI,Ramped,35k ,8k ,15k ,12k ,23k ,12k ,33k ,4k ,12k ,8k ,100%,15k ,100%,4,2,1,1,3,1,4,1,1,2,100%,1,100%
-0051E00000DwmcGQAR,EMEA,Gavin Walsh,Suzanne Hart,Andy Smyth,UKI,Unramped,39k ,0k ,0k ,39k ,8k ,31k ,8k ,5k ,0k ,3k ,33%,10k ,0%,3,0,0,3,1,2,1,1,0,1,33%,1,0%
-005PC00000x0kdZYAQ,EMEA,Gavin Walsh,Suzanne Hart,Darren Canoy,UKI,Ramped,90k ,71k ,0k ,19k ,71k ,19k ,18k ,18k ,0k ,0k ,33%,68k ,100%,3,2,0,1,2,1,1,1,0,0,33%,1,100%
+0051E00000DwmcGQAR,EMEA,Gavin Walsh,Suzanne Hart,Andy Smyth,UKI,Unramped,53k ,0k ,0k ,39k ,8k ,45k ,8k ,5k ,0k ,3k ,25%,24k ,0%,4,0,0,3,1,3,1,1,0,1,25%,2,0%
+005PC00000x0kdZYAQ,EMEA,Gavin Walsh,Suzanne Hart,Darren Canoy,UKI,Ramped,22k ,3k ,0k ,19k ,3k ,19k ,0k ,0k ,0k ,0k ,0%,0k ,0%,2,1,0,1,1,1,0,0,0,0,0%,0,0%
 005PC00000vG12XYAS,EMEA,Gavin Walsh,Suzanne Hart,Floriane Léry-Transon,UKI,Ramped,107k ,0k ,107k ,0k ,107k ,0k ,74k ,9k ,21k ,8k ,100%,107k ,50%,2,0,2,0,2,0,2,1,2,1,100%,2,50%
-005PC00000xPSiHYAW,EMEA,Gavin Walsh,Suzanne Hart,Alexandra Schwerdtfeger,UKI,Unramped,20k ,0k ,9k ,11k ,16k ,4k ,25k ,12k ,0k ,4k ,100%,0k ,0%,3,0,1,2,2,1,3,2,0,1,100%,0,0%
+005PC00000xPSiHYAW,EMEA,Gavin Walsh,Suzanne Hart,Alexandra Schwerdtfeger,UKI,Unramped,11k ,0k ,0k ,11k ,7k ,4k ,11k ,7k ,0k ,4k ,100%,0k ,0%,2,0,0,2,1,1,2,1,0,1,100%,0,0%
 005PC00000gvu5KYAQ,EMEA,Gavin Walsh,Suzanne Hart,Luca Reeve,UKI,Ramped,180k ,59k ,121k ,0k ,180k ,0k ,107k ,14k ,53k ,35k ,80%,27k ,100%,5,2,3,0,5,0,4,3,2,2,80%,1,100%
-005PC00000uzbonYAA,NAMER,Michelle Roos,Trey Suddaby,Nick Pacult,CAE West,Ramped,107k ,0k ,33k ,65k ,27k ,80k ,96k ,35k ,44k ,0k ,57%,0k ,0%,7,0,3,2,3,4,4,2,2,0,57%,0,0%
-0056R00000E6lBPQAZ,NAMER,Michelle Roos,Trey Suddaby,Corey Doman,CAE West,Ramped,329k ,0k ,68k ,261k ,0k ,329k ,231k ,32k ,176k ,8k ,60%,0k ,0%,5,0,2,2,0,5,3,2,2,1,60%,0,0%
-005PC00000uzchdYAA,NAMER,Michelle Roos,Trey Suddaby,Kaile Prosser,CAE West,Ramped,116k ,37k ,0k ,45k ,72k ,45k ,69k ,18k ,0k ,23k ,57%,0k ,0%,7,1,0,4,3,4,4,2,0,2,57%,0,0%
+005PC00000uzbonYAA,NAMER,Michelle Roos,Trey Suddaby,Nick Pacult,CAE West,Ramped,102k ,0k ,27k ,65k ,22k ,80k ,91k ,29k ,44k ,0k ,50%,0k ,0%,6,0,2,2,2,4,3,1,2,0,50%,0,0%
+0056R00000E6lBPQAZ,NAMER,Michelle Roos,Trey Suddaby,Corey Doman,CAE West,Ramped,317k ,0k ,56k ,261k ,34k ,283k ,237k ,32k ,170k ,19k ,75%,0k ,0%,4,0,2,2,1,3,3,1,1,2,75%,0,0%
+005PC00000uzchdYAA,NAMER,Michelle Roos,Trey Suddaby,Kaile Prosser,CAE West,Ramped,114k ,37k ,0k ,43k ,72k ,43k ,68k ,18k ,0k ,23k ,50%,0k ,0%,6,1,0,3,3,3,3,1,0,2,50%,0,0%
 005PC00000WqfflYAB,NAMER,Michelle Roos,Trey Suddaby,Ryan Addiego,CAE West,Ramped,75k ,0k ,69k ,6k ,25k ,50k ,49k ,14k ,5k ,0k ,50%,0k ,0%,4,0,3,1,1,3,2,1,1,0,50%,0,0%
 005PC00000kGabJYAS,NAMER,Michelle Roos,Trey Suddaby,Luke Humphries,CAE West,Ramped,80k ,0k ,73k ,0k ,56k ,24k ,52k ,1k ,50k ,0k ,50%,0k ,0%,6,0,2,1,1,5,3,1,1,1,50%,1,0%
-0056R00000C21bpQAB,NAMER,Michelle Roos,Trey Suddaby,Natalie Kern,CAE West,Ramped,163k ,34k ,85k ,38k ,119k ,44k ,152k ,38k ,62k ,0k ,50%,0k ,0%,8,1,2,1,5,3,4,1,3,0,50%,1,0%
-005PC00000yEHEXYA4,NAMER,Michelle Roos,Trey Suddaby,Sarah Arnold,CAE West,Unramped,339k ,0k ,264k ,18k ,313k ,26k ,8k ,0k ,8k ,0k ,20%,57k ,0%,5,0,2,1,2,3,1,0,1,0,20%,1,0%
-005PC00000xr26XYAQ,NAMER,Michelle Roos,Trey Suddaby,Tessa Kaye,CAE West,Unramped,124k ,0k ,19k ,105k ,105k ,19k ,119k ,14k ,105k ,0k ,100%,0k ,0%,2,0,1,1,1,1,2,1,1,0,100%,0,0%
+0056R00000C21bpQAB,NAMER,Michelle Roos,Trey Suddaby,Natalie Kern,CAE West,Ramped,119k ,28k ,85k ,0k ,113k ,6k ,100k ,0k ,52k ,0k ,38%,0k ,0%,8,2,2,0,6,2,3,0,3,0,38%,1,0%
+005PC00000yEHEXYA4,NAMER,Michelle Roos,Trey Suddaby,Sarah Arnold,CAE West,Unramped,321k ,0k ,264k ,0k ,313k ,8k ,8k ,0k ,8k ,0k ,25%,57k ,0%,4,0,2,0,2,2,1,0,1,0,25%,1,0%
+005PC00000xr26XYAQ,NAMER,Michelle Roos,Trey Suddaby,Tessa Kaye,CAE West,Unramped,111k ,0k ,6k ,105k ,105k ,6k ,123k ,18k ,105k ,0k ,100%,0k ,0%,2,0,1,1,1,1,2,1,1,0,100%,0,0%
 005PC00000txGFZYA2,EMEA,Mathieu Bourreau,Virginia Agusti,Megan Baudonnel,South,Ramped,147k ,0k ,137k ,10k ,130k ,17k ,92k ,32k ,31k ,29k ,44%,15k ,0%,9,0,8,1,6,3,4,2,3,3,44%,3,0%
-005PC00000tzhTNYAY,EMEA,Mathieu Bourreau,Virginia Agusti,Naël Mourouvin,South,Ramped,295k ,276k ,19k ,0k ,276k ,19k ,174k ,66k ,70k ,22k ,75%,276k ,100%,4,1,2,0,2,2,3,1,2,1,75%,1,100%
-005PC00000xMpDBYA0,EMEA,Mathieu Bourreau,Virginia Agusti,Fanta Diaby,South,Unramped,67k ,0k ,24k ,43k ,31k ,37k ,42k ,21k ,21k ,0k ,50%,24k ,50%,8,0,2,4,4,4,4,2,2,0,50%,2,50%
-005PC00000jyEhJYAU,EMEA,Mathieu Bourreau,Virginia Agusti,Noé Koch,South,Ramped,75k ,48k ,0k ,20k ,38k ,37k ,63k ,13k ,51k ,0k ,67%,27k ,100%,6,3,0,2,3,3,4,2,2,0,67%,1,100%
-005PC00000VerzqYAB,EMEA,Mathieu Bourreau,Virginia Agusti,Sandra Locatelli,South,Ramped,82k ,25k ,57k ,0k ,82k ,0k ,44k ,1k ,35k ,0k ,38%,27k ,0%,8,4,4,0,8,0,3,1,1,0,38%,3,0%
-005PC00000ucnqfYAA,EMEA,Mathieu Bourreau,Virginia Agusti,Cécile Vappereau,South,Unramped,63k ,0k ,37k ,26k ,58k ,5k ,34k ,18k ,12k ,4k ,100%,41k ,100%,5,0,1,4,4,1,5,3,1,1,100%,2,100%
+005PC00000tzhTNYAY,EMEA,Mathieu Bourreau,Virginia Agusti,Naël Mourouvin,South,Ramped,42k ,23k ,19k ,0k ,23k ,19k ,52k ,0k ,30k ,22k ,100%,0k ,0%,3,1,2,0,1,2,3,0,2,1,100%,0,0%
+005PC00000xMpDBYA0,EMEA,Mathieu Bourreau,Virginia Agusti,Fanta Diaby,South,Unramped,67k ,5k ,19k ,43k ,45k ,22k ,42k ,21k ,21k ,0k ,50%,24k ,50%,8,1,1,4,5,3,4,2,2,0,50%,2,50%
+005PC00000jyEhJYAU,EMEA,Mathieu Bourreau,Virginia Agusti,Noé Koch,South,Ramped,75k ,54k ,0k ,20k ,38k ,37k ,63k ,13k ,51k ,0k ,67%,27k ,100%,6,4,0,2,3,3,4,2,2,0,67%,1,100%
+005PC00000VerzqYAB,EMEA,Mathieu Bourreau,Virginia Agusti,Sandra Locatelli,South,Ramped,82k ,17k ,57k ,7k ,82k ,0k ,44k ,1k ,35k ,0k ,38%,27k ,0%,8,2,4,2,8,0,3,1,1,0,38%,3,0%
+005PC00000ucnqfYAA,EMEA,Mathieu Bourreau,Virginia Agusti,Cécile Vappereau,South,Unramped,58k ,0k ,37k ,22k ,54k ,5k ,30k ,18k ,12k ,0k ,100%,41k ,100%,4,0,1,3,3,1,4,3,1,0,100%,2,100%
 005PC00000nlhOfYAI,NAMER,Mark Hochman,Zack Gatlin,Amanda Baran,NAE West,Ramped,17k ,0k ,0k ,17k ,0k ,17k ,0k ,0k ,0k ,0k ,0%,17k ,0%,1,0,0,1,0,1,0,0,0,0,0%,1,0%
-005PC00000gXM9dYAG,NAMER,Mark Hochman,Zack Gatlin,Aleks Nussen,NAE West,Unramped,87k ,80k ,7k ,0k ,87k ,0k ,35k ,22k ,0k ,14k ,33%,87k ,33%,3,1,1,1,2,1,1,1,0,1,33%,3,33%
+005PC00000gXM9dYAG,NAMER,Mark Hochman,Zack Gatlin,Aleks Nussen,NAE West,Unramped,7k ,0k ,7k ,0k ,7k ,0k ,0k ,0k ,0k ,0k ,0%,7k ,0%,2,0,1,1,1,1,0,0,0,0,0%,2,0%
 005PC00000wNNNVYA4,NAMER,Mark Hochman,Zack Gatlin,Courtney Day,NAE West,Ramped,0k ,0k ,0k ,0k ,0k ,0k ,0k ,0k ,0k ,0k ,0%,0k ,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%
-005PC00000wVqYnYAK,NAMER,Mark Hochman,Zack Gatlin,Dillon McCrea,NAE West,Unramped,53k ,0k ,0k ,13k ,53k ,0k ,0k ,0k ,0k ,0k ,0%,53k ,0%,2,0,0,1,2,0,0,0,0,0,0%,2,0%
+005PC00000wVqYnYAK,NAMER,Mark Hochman,Zack Gatlin,Dillon McCrea,NAE West,Unramped,53k ,0k ,40k ,13k ,53k ,0k ,0k ,0k ,0k ,0k ,0%,53k ,0%,2,0,1,1,2,0,0,0,0,0,0%,2,0%
 005PC00000yF6IfYAK,NAMER,Mark Hochman,Zack Gatlin,Efrain Garduno-Salazar,NAE West,Unramped,1k ,0k ,0k ,1k ,0k ,1k ,0k ,0k ,0k ,0k ,0%,1k ,0%,1,0,0,1,0,1,0,0,0,0,0%,1,0%
 005PC00000d1yYLYAY,NAMER,Mark Hochman,Zack Gatlin,Greg Bach,NAE West,Unramped,122k ,122k ,0k ,0k ,122k ,0k ,55k ,17k ,17k ,6k ,100%,122k ,100%,2,2,0,0,2,0,2,2,2,1,100%,2,100%
-005PC00000wrxdFYAQ,NAMER,Mark Hochman,Zack Gatlin,Tate Whitney,NAE West,Unramped,282k ,0k ,234k ,0k ,231k ,51k ,166k ,28k ,95k ,18k ,40%,235k ,25%,5,0,3,0,3,2,2,1,2,1,40%,4,25%
+005PC00000wrxdFYAQ,NAMER,Mark Hochman,Zack Gatlin,Tate Whitney,NAE West,Unramped,282k ,0k ,184k ,50k ,231k ,51k ,166k ,28k ,95k ,18k ,40%,235k ,25%,5,0,2,1,3,2,2,1,2,1,40%,4,25%
 005PC00000x1Fz7YAE,NAMER,Mark Hochman,Zack Gatlin,Khanh Tran,NAE West,Unramped,0k ,0k ,0k ,0k ,0k ,0k ,0k ,0k ,0k ,0k ,0%,0k ,0%,0,0,0,0,0,0,0,0,0,0,0%,0,0%
 005PC00000YaP7ZYAV,NAMER,Mark Hochman,Zack Gatlin,Josh Larsen,NAE West,Ramped,6k ,0k ,0k ,6k ,6k ,0k ,0k ,0k ,0k ,0k ,0%,6k ,0%,1,0,0,1,1,0,0,0,0,0,0%,1,0%
